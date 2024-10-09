@@ -1,4 +1,4 @@
-# Zapret (обход блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.)
+# AntiZapret (обход блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.)
 
 ## Guide
 Скачайте репозиторий как ZIP архив, разархивируйте в отдельную папку
