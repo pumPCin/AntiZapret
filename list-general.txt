@@ -42,6 +42,7 @@ googlevideo.com
 gvt1.com
 help.steampowered.com
 help.twitch.tv
+i.ytimg.com
 id.twitch.tv
 images-ext-1.discordapp.net
 linkedin.com
@@ -68,6 +69,7 @@ youtube-ui.l.google.com
 youtube.com
 youtube.googleapis.com
 youtubeembeddedplayer.googleapis.com
+youtubei.googleapis.com
 youtubei.googleapis.com
 youtubekids.com
 yt-video-upload.l.google.com
