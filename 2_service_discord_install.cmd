@@ -10,3 +10,4 @@ sc delete "%SRVCNAME%"
 sc create "%SRVCNAME%" binPath= "%~dp0winws.exe %ARGS%" DisplayName= "zapret DPI bypass : winws1" start= auto
 sc description "%SRVCNAME%" "AntiZapret Service (Discord only)"
 sc start "%SRVCNAME%"
+

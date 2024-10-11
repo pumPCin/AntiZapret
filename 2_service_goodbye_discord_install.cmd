@@ -11,4 +11,3 @@ sc create "%SRVCNAME%" binPath= "%~dp0winws.exe %ARGS%" DisplayName= "zapret DPI
 sc description "%SRVCNAME%" "AntiZapret Service (Discord only) for GoodByeDPI"
 sc start "%SRVCNAME%"
 
-pause
