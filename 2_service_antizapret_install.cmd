@@ -9,5 +9,5 @@ set SRVCNAME=zapret
 net stop "%SRVCNAME%"
 sc delete "%SRVCNAME%"
 sc create "%SRVCNAME%" binPath= "%~dp0winws.exe %ARGS%" DisplayName= "zapret DPI bypass : winws1" start= auto
-sc description "%SRVCNAME%" "zapret DPI bypass software"
+sc description "%SRVCNAME%" "AntiZapret Service (General list)"
 sc start "%SRVCNAME%"
