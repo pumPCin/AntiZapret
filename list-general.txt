@@ -1,12 +1,6 @@
-*.akamai.steamstatic.com
-*.discord.com
-*.discord.gg
-*.discord.media
-*.discordapp.com
-*.discordapp.net
-*.steampowered.com
-*.steamstatic.com
-*.valvesoftware.com
+7tv.app
+7tv.gg
+7tv.io
 akamai.steamstatic.com
 amazon.com
 api.steampowered.com
@@ -75,9 +69,6 @@ twitch.tv
 twitchcdn.net
 video.akamai.steamstatic.com
 wide-youtube.l.google.com
-www.discord.app
-www.discord.com
-www.linkedin.com
 youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
