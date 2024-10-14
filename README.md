@@ -1,4 +1,5 @@
-# AntiZapret (обход блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.)
+# AntiZapret
+Обход блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.
 
 ## Guide
 Скачайте репозиторий как ZIP архив, разархивируйте в отдельную папку.
@@ -6,16 +7,16 @@
 Запустите **от имени администратора** то, что вам нужно:
 
 ## Запуск в виде приложения (одно на выбор):
-- **`1_antizapret.cmd`** - запустить приложение для обхода блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.
-- **`1_discord.cmd`** - запустить приложение для обхода блокировки только Discord'а.
+- **`1_antizapret.cmd`** - для обхода блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.
+- **`1_discord.cmd`** - для обхода блокировки только Discord'а.
 
-## Установка в виде службы zapret (одну на выбор):
-- **`2_service_antizapret_install.cmd`** - установить в виде службы zapret для обхода блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.
-- **`2_service_discord_install.cmd`** - установить в виде службы zapret для обхода блокировки только Discord'а.
-- **`2_service_goodbye_discord_install.cmd`** - установить в виде службы zapret для обхода блокировки только Discord'а, если у вас уже установлена служба **goodbyedpi**. ВНИМАНИЕ: Первый раз goodbyedpi может вылететь - просто перезапустите устройство!
+## Установка в виде службы antizapret (одну на выбор):
+- **`2_service_antizapret_install.cmd`** - для обхода блокировки Discord'а, Youtube'а, Steam'а, Twitch'а и др.
+- **`2_service_discord_install.cmd`** - для обхода блокировки только Discord'а.
+- **`2_service_goodbye_discord_install.cmd`** - для обхода блокировки только Discord'а, если у вас уже установлена служба **goodbyedpi**. ВНИМАНИЕ: Первый раз goodbyedpi может вылететь - просто перезапустите устройство!
 
 ## Удаление службы zapret, ранее установленной выше
-- **`3_service_remove.cmd`** - остановить и удалить службу zapret.
+- **`3_service_remove.cmd`** - остановить и удалить службу antizapret.
 
 ## Не работает?
 - Проверьте, запускаете ли вы файлы от имени администратора
@@ -25,7 +26,7 @@
 - Не прогружается видео на ютубе? В файле, который открываете, в строчке с `--filter-tcp=443`: поменяйте `--dpi-desync-fooling=md5sig` на `--dpi-desync-fooling=badseq`
 - Попробуйте обновить бинарники с оригинального репозитория.
 
-### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `1_antizapret.cmd` и `2_service_antizapret_install.cmd`). После добавления службу надо перезапустить
+### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `1_antizapret.cmd` и `2_service_antizapret_install.cmd`). После добавления службу antizapret надо перезапустить
 
 ### Оригинальный репозиторий
 Credits to https://github.com/bol-van/zapret/tree/master/binaries/win64/zapret-winws
