@@ -51,6 +51,7 @@ help.twitch.tv
 i.ytimg.com
 id.twitch.tv
 images-ext-1.discordapp.net
+jnn-pa.googleapis.com
 linkedin.com
 media.discordapp.net
 pikabu.ru
@@ -80,4 +81,7 @@ youtubei.googleapis.com
 youtubekids.com
 yt-video-upload.l.google.com
 yt.be
+yt3.ggpht.com
+yt4.ggpht.com
 ytimg.com
+ytimg.l.google.com
