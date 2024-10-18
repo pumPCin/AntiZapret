@@ -15,7 +15,7 @@
 - **`2_service_discord_install.cmd`** - для обхода блокировки только Discord'а.
 - **`2_service_goodbye_discord_install.cmd`** - для обхода блокировки только Discord'а, если у вас уже установлена служба **goodbyedpi**. ВНИМАНИЕ: Первый раз goodbyedpi может вылететь - просто перезапустите устройство!
 
-## Удаление службы zapret, ранее установленной выше
+## Удаление службы antizapret, ранее установленной выше
 - **`3_service_remove.cmd`** - остановить и удалить службу antizapret.
 
 ## Не работает?
@@ -25,7 +25,7 @@
 - Не работает `2_service_goodbye_discord_install.cmd`? Удостовертесь, что служба goodbyedpi запущена и имеет название GoodbyeDPI. После снова запустите `2_service_goodbye_discord_install.cmd` и перезапустите устройство.
 - Попробуйте обновить бинарники с оригинального репозитория.
 
-### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `1_antizapret.cmd` и `2_service_antizapret_install.cmd`). После добавления службу antizapret надо перезапустить
+### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `1_antizapret.cmd` и `2_service_antizapret_install.cmd`). После добавления, службу antizapret надо перезапустить
 
 ## Оригинальный репозиторий:
 https://github.com/bol-van/zapret/tree/master/binaries/win64/zapret-winws
