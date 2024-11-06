@@ -10,6 +10,7 @@ avatars.akamai.steamstatic.com
 cdn.akamai.steamstatic.com
 cdn.discordapp.com
 clan.akamai.steamstatic.com
+cloudflare-ech.com
 community.akamai.steamstatic.com
 dev.twitch.tv
 developer.valvesoftware.com
