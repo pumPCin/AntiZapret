@@ -4,6 +4,7 @@
 7tv.io
 akamai.steamstatic.com
 amazon.com
+api.mod.io
 api.steampowered.com
 api.twitch.tv
 avatars.akamai.steamstatic.com
@@ -55,6 +56,7 @@ images-ext-1.discordapp.net
 jnn-pa.googleapis.com
 linkedin.com
 media.discordapp.net
+mod.io
 pikabu.ru
 reddit.com
 ru.linkedin.com
@@ -71,6 +73,7 @@ tenor.com
 twitch.tv
 twitchcdn.net
 video.akamai.steamstatic.com
+web.archive.org
 wide-youtube.l.google.com
 youtu.be
 youtube-nocookie.com
