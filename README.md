@@ -32,4 +32,4 @@
 ### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt (для `1_antizapret_general_v.cmd` и `2_service_antizapret_general_install_v.cmd`). После добавления, службу antizapret надо перезапустить
 
 ## Оригинальный репозиторий:
-https://github.com/bol-van/zapret/tree/master/binaries/win64/zapret-winws
+https://github.com/bol-van/zapret/tree/master
