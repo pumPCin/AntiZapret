@@ -17,6 +17,7 @@ archive.org
 avatars.akamai.steamstatic.com
 bbc.com
 boom-img.com
+bootstrapcdn.com
 cdn.akamai.steamstatic.com
 cdn.betterttv.net
 cdn.discordapp.com
@@ -24,10 +25,14 @@ cdn.frankerfacez.com
 cdn.hsmedia.ru
 cdn.vigo.one
 cdninstagram.com
+cdnjs.cloudflare.com
 clan.akamai.steamstatic.com
 cloud.kodik-storage.com
 cloudflare-ech.com
+cloudflare.com
+cloudflare.steamstatic.com
 cm.mgid.com
+code.jquery.com
 community.akamai.steamstatic.com
 dev.twitch.tv
 developer.valvesoftware.com
@@ -72,6 +77,7 @@ googleads.g.doubleclick.net
 googleadservices.com
 googleapis.com
 googlesyndication.com
+googletagmanager.com
 googleusercontent.com
 googlevideo.com
 gvt1.com
@@ -86,6 +92,7 @@ img.yani.tv
 indigogobot.com
 instagram.com
 jnn-pa.googleapis.com
+jquery.com
 jut.su
 kodik-storage.com
 kodik.biz
@@ -113,7 +120,9 @@ rutracker.cc
 rutracker.org
 safeframe.googlesyndication.com
 shared.akamai.steamstatic.com
+shared.cloudflare.steamstatic.com
 soundcloud.com
+stackpath.bootstrapcdn.com
 static.doubleclick.net
 stats.g.doubleclick.net
 steamcommunity.com
