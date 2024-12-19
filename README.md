@@ -23,7 +23,7 @@
 - **`3_service_remove.cmd`** - остановить и удалить службу antizapret.
 
 ## Для работы ChatGPT, Copilot, OpenAI; Spotify; Epic Games и др.
-- Добавьте строки из файла hosts в свой файл hosts (расположен в C:\Windows\System32\drivers\etc) или перезапишите файл hosts.
+- Добавьте строки из файла **`hosts`** в свой файл **`hosts`** (расположен в **`C:\Windows\System32\drivers\etc`**) или перезапишите файл **`hosts`**.
 
 ## Не работает?
 - Проверьте, запускаете ли вы файлы от имени администратора.
