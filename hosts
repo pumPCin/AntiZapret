@@ -28,10 +28,12 @@
 50.7.85.220 bingclientmsa.sapphire.microsoftapp.net
 50.7.85.220 c.msn.com
 50.7.85.220 cdn.auth0.com
+50.7.85.220 cdn.cookielaw.org
+50.7.85.220 cdn1.epicgames.com
+50.7.85.220 cdn2.epicgames.com
 50.7.85.220 cdn.oaistatic.com
 50.7.85.220 chatgpt.com
 50.7.85.220 claude.ai
-50.7.85.220 claude.ai 
 50.7.85.220 copilot.microsoft.com
 50.7.85.220 data.swiftkey.com
 50.7.85.220 edge.microsoft.com
@@ -65,6 +67,7 @@
 50.7.85.220 ol.epicgames.com
 50.7.85.220 on.epicgames.com
 50.7.85.220 payment-website-pci.ol.epicgames.com
+payment-website-pci.ol.epicgames.com
 50.7.85.220 perf.store.on.epicgames.com
 50.7.85.220 platform.openai.com
 50.7.85.220 proactivebackend-pa.googleapis.com
@@ -79,6 +82,8 @@
 50.7.85.220 speechs3proto2-pa.googleapis.com
 50.7.85.220 spotify.com
 50.7.85.220 ssl.bing.com
+50.7.85.220 static-assets-prod.epicgames.com
+50.7.85.220 store.epicgames.com
 50.7.85.220 store.on.epicgames.com
 50.7.85.220 superapp.msn.com
 50.7.85.220 swiftkey.com
