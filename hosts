@@ -29,9 +29,9 @@
 50.7.85.220 c.msn.com
 50.7.85.220 cdn.auth0.com
 50.7.85.220 cdn.cookielaw.org
+50.7.85.220 cdn.oaistatic.com
 50.7.85.220 cdn1.epicgames.com
 50.7.85.220 cdn2.epicgames.com
-50.7.85.220 cdn.oaistatic.com
 50.7.85.220 chatgpt.com
 50.7.85.220 claude.ai
 50.7.85.220 copilot.microsoft.com
@@ -49,6 +49,7 @@
 50.7.85.220 googleapis.com
 50.7.85.220 greasyfork.org
 50.7.85.220 gstatic.com
+50.7.85.220 i.scdn.co
 50.7.85.220 img-s-msn-com.akamaized.net
 50.7.85.220 in.appcenter.ms
 50.7.85.220 labs.google
@@ -66,9 +67,10 @@
 50.7.85.220 o.pki.goog
 50.7.85.220 ol.epicgames.com
 50.7.85.220 on.epicgames.com
+50.7.85.220 open.spotify.com
 50.7.85.220 payment-website-pci.ol.epicgames.com
-payment-website-pci.ol.epicgames.com
 50.7.85.220 perf.store.on.epicgames.com
+50.7.85.220 pickasso.spotifycdn.com
 50.7.85.220 platform.openai.com
 50.7.85.220 proactivebackend-pa.googleapis.com
 50.7.85.220 prod-japaneast.access-point.cloudmessaging.edge.microsoft.com
@@ -76,13 +78,16 @@ payment-website-pci.ol.epicgames.com
 50.7.85.220 prod-switzerlandnorth.access-point.cloudmessaging.edge.microsoft.com
 50.7.85.220 prod.rewardsplatform.microsoft.com
 50.7.85.220 sapphire.api.microsoftapp.net
+50.7.85.220 scdn.co
 50.7.85.220 searchnotifications-pa.googleapis.com
 50.7.85.220 self.events.data.microsoft.com
 50.7.85.220 spclient.wg.spotify.com
 50.7.85.220 speechs3proto2-pa.googleapis.com
 50.7.85.220 spotify.com
+50.7.85.220 spotifycdn.com
 50.7.85.220 ssl.bing.com
 50.7.85.220 static-assets-prod.epicgames.com
+50.7.85.220 steamdb.info
 50.7.85.220 store.epicgames.com
 50.7.85.220 store.on.epicgames.com
 50.7.85.220 superapp.msn.com
@@ -96,6 +101,7 @@ payment-website-pci.ol.epicgames.com
 50.7.85.220 update.googleapis.com
 50.7.85.220 update.greasyfork.org
 50.7.85.220 webrtc.chatgpt.com
+50.7.85.220 wg.spotify.com
 50.7.85.220 www.bing.com
 50.7.85.220 www.bingapis.com
 50.7.85.220 www.msn.com
