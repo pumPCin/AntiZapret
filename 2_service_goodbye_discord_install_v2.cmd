@@ -13,4 +13,3 @@ sc create %SRVCNAME% binPath= "\"%~dp0winws.exe\" %ARGS%" DisplayName= "AntiZapr
 sc description %SRVCNAME% "AntiZapret Service (GoodbyeDPI Discord)"
 sc start %SRVCNAME%
 pause
-

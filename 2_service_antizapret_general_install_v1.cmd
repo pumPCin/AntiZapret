@@ -18,4 +18,3 @@ sc create %SRVCNAME% binPath= "\"%~dp0winws.exe\" %ARGS%" DisplayName= "AntiZapr
 sc description %SRVCNAME% "AntiZapret Service (General list)"
 sc start %SRVCNAME%
 pause
-

@@ -18,4 +18,3 @@ sc create %SRVCNAME% binPath= "\"%~dp0winws.exe\" %ARGS%" DisplayName= "AntiZapr
 sc description %SRVCNAME% "AntiZapret Service (Discord only)"
 sc start %SRVCNAME%
 pause
-
