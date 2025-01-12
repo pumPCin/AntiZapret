@@ -5,8 +5,10 @@
 255.255.255.255 broadcasthost
 # antiblock russia
 50.7.85.220 ab.chatgpt.com
+50.7.85.220 accounts.scdn.co
 50.7.85.220 accounts.spotify.com
 50.7.85.220 aet.spotify.com
+50.7.85.220 ai-chat.bsg.brave.com
 50.7.85.220 aisandbox-pa.googleapis.com
 50.7.85.220 aistudio.google.com
 50.7.85.220 aitestkitchen.withgoogle.com
@@ -26,6 +28,7 @@
 50.7.85.220 bing.net
 50.7.85.220 bingapis.com
 50.7.85.220 bingclientmsa.sapphire.microsoftapp.net
+50.7.85.220 bmonkeys.net
 50.7.85.220 c.msn.com
 50.7.85.220 cdn.auth0.com
 50.7.85.220 cdn.cookielaw.org
@@ -41,14 +44,14 @@
 50.7.85.220 epicgames.com
 50.7.85.220 files.oaiusercontent.com
 50.7.85.220 firebaseinstallations.googleapis.com
+50.7.85.220 gamesplanet.com
 50.7.85.220 gateway.bingviz.microsoftapp.net
+50.7.85.220 gc.bmonkeys.net
 50.7.85.220 geller-pa.googleapis.com
 50.7.85.220 gemini.google.com
 50.7.85.220 generativelanguage.googleapis.com
 50.7.85.220 gew1-spclient.spotify.com
-50.7.85.220 googleapis.com
 50.7.85.220 greasyfork.org
-50.7.85.220 gstatic.com
 50.7.85.220 i.scdn.co
 50.7.85.220 img-s-msn-com.akamaized.net
 50.7.85.220 in.appcenter.ms
@@ -67,7 +70,6 @@
 50.7.85.220 o.pki.goog
 50.7.85.220 ol.epicgames.com
 50.7.85.220 on.epicgames.com
-50.7.85.220 open.spotify.com
 50.7.85.220 payment-website-pci.ol.epicgames.com
 50.7.85.220 perf.store.on.epicgames.com
 50.7.85.220 pickasso.spotifycdn.com
@@ -104,6 +106,7 @@
 50.7.85.220 wg.spotify.com
 50.7.85.220 www.bing.com
 50.7.85.220 www.bingapis.com
+50.7.85.220 www.googleapis.com
 50.7.85.220 www.msn.com
 50.7.85.220 www.notion.so
 50.7.85.220 www.spotify.com
