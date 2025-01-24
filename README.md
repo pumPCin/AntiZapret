@@ -7,17 +7,17 @@
 Запустите **от имени администратора** то, что вам нужно:
 
 ## Запуск в виде приложения (одно на выбор):
-- **`1_antizapret_general_v1.cmd`** - для обхода блокировки основных сайтов (list-general.txt)
-- **`1_antizapret_extended_v1.cmd`** - для обхода блокировки многих сайтов (list-extended.txt)
-- **`1_discord_v1.cmd`** - для обхода блокировки только Discord (list-discord.txt)
-- Если не работает версия v1 попробуйте v2
+- **`1_antizapret_general_v3.cmd`** - для обхода блокировки основных сайтов (list-general.txt)
+- **`1_antizapret_extended_v3.cmd`** - для обхода блокировки многих сайтов (list-extended.txt)
+- **`1_discord_v3.cmd`** - для обхода блокировки только Discord (list-discord.txt)
+- Если не работает версия v3 попробуйте v2,v1
 
 ## Установка в виде службы antizapret (одну на выбор):
-- **`2_service_antizapret_general_install_v1.cmd`** - для обхода блокировки основных сайтов (list-general.txt)
-- **`2_service_antizapret_extended_install_v1.cmd`** - для обхода блокировки многих сайтов (list-extended.txt)
-- **`2_service_discord_install_v1.cmd`** - для обхода блокировки только Discord (list-discord.txt)
-- **`2_service_goodbye_discord_install_v1.cmd`** - для обхода блокировки только Discord, если у вас уже установлена служба **goodbyedpi**. ВНИМАНИЕ: Первый раз GoodbyeDPI может вылететь - просто перезапустите устройство!
-- Если не работает версия v1 попробуйте v2
+- **`2_service_antizapret_general_install_v3.cmd`** - для обхода блокировки основных сайтов (list-general.txt)
+- **`2_service_antizapret_extended_install_v3.cmd`** - для обхода блокировки многих сайтов (list-extended.txt)
+- **`2_service_discord_install_v3.cmd`** - для обхода блокировки только Discord (list-discord.txt)
+- **`2_service_goodbye_discord_install_v3.cmd`** - для обхода блокировки только Discord, если у вас уже установлена служба **goodbyedpi**. ВНИМАНИЕ: Первый раз GoodbyeDPI может вылететь - просто перезапустите устройство!
+- Если не работает версия v3 попробуйте v2,v1
 
 ## Удаление службы antizapret, ранее установленной выше
 - **`3_service_remove.cmd`** - остановить и удалить службу antizapret.
