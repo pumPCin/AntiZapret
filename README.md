@@ -19,11 +19,11 @@
 - **`2_service_goodbye_discord_install_v1.cmd`** - для обхода блокировки только Discord, если у вас уже установлена служба **goodbyedpi**. ВНИМАНИЕ: Первый раз GoodbyeDPI может вылететь - просто перезапустите устройство!
 - Если не работает версия v1 попробуйте v2,v3
 
-## Удаление службы antizapret, ранее установленной выше
+## Удаление службы antizapret (ранее установленной выше)
 - **`3_service_remove.cmd`** - остановить и удалить службу antizapret.
 
 ## Для работы ChatGPT, Copilot, OpenAI; Spotify; Epic Games и др.
-- Добавьте строки из файла **`hosts`** в свой файл **`hosts`** (расположен в **`C:\Windows\System32\drivers\etc`**) или перезапишите файл **`hosts`**.
+- Добавьте строки из файла **`hosts`** в свой файл **`hosts`** (расположен в **`C:\Windows\System32\drivers\etc`**) или перезапишите файл **`hosts`** целиком.
 
 ## Не работает?
 - Проверьте, запускаете ли вы файлы от имени администратора.
@@ -32,7 +32,8 @@
 - Не работает `2_service_goodbye_discord_install_v№.cmd`? Удостовертесь, что служба goodbyedpi запущена и имеет название GoodbyeDPI. После снова запустите `2_service_goodbye_discord_install_v№.cmd` и перезапустите устройство.
 - Попробуйте обновить бинарники с оригинального репозитория.
 
-### Дополнительные адреса заблокированных сайтов можно добавить в список list-general.txt для `1_antizapret_general_v№.cmd` и `2_service_antizapret_general_install_v№.cmd` или в список list-extended.txt для `1_antizapret_extended_v№.cmd` и `2_service_antizapret_extended_install_v№.cmd`. После добавления, службу antizapret надо перезапустить
+## Дополнительные адреса заблокированных сайтов
+- Можно добавить в список list-general.txt для `1_antizapret_general_v№.cmd` и `2_service_antizapret_general_install_v№.cmd` или в список list-extended.txt для `1_antizapret_extended_v№.cmd` и `2_service_antizapret_extended_install_v№.cmd`. После добавления, службу antizapret надо перезапустить.
 
 ## Оригинальный репозиторий:
-https://github.com/bol-van/zapret/tree/master
+- https://github.com/bol-van/zapret/tree/master
