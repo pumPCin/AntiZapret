@@ -49,6 +49,7 @@ discord.gift
 discord.gifts
 discord.media
 discord.new
+discord.status
 discord.store
 discord.tools
 discordactivities.com
@@ -59,6 +60,7 @@ discordcdn.com
 discordmerch.com
 discordpartygames.com
 discordsays.com
+discordsez.com
 discordstatus.com
 dn.com
 dns.comss.one
@@ -123,6 +125,7 @@ safeframe.googlesyndication.com
 shared.akamai.steamstatic.com
 shared.cloudflare.steamstatic.com
 soundcloud.com
+stable.dl2.discordapp.net
 stackpath.bootstrapcdn.com
 static.doubleclick.net
 stats.g.doubleclick.net

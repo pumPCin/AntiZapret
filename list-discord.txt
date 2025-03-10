@@ -13,6 +13,7 @@ discord.gift
 discord.gifts
 discord.media
 discord.new
+discord.status
 discord.store
 discord.tools
 discordactivities.com
@@ -23,10 +24,12 @@ discordcdn.com
 discordmerch.com
 discordpartygames.com
 discordsays.com
+discordsez.com
 discordstatus.com
 dn.com
 gateway.discord.gg
 googleapis.com
 images-ext-1.discordapp.net
 media.discordapp.net
+stable.dl2.discordapp.net
 tenor.com
