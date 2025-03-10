@@ -2,6 +2,7 @@
 7tv.app
 7tv.gg
 7tv.io
+abd.twimg.com
 accounts.google.com
 ad.doubleclick.net
 adservice.google.com
@@ -10,6 +11,7 @@ aksor.pro
 amazon.com
 aniboom.one
 animego.org
+api-v2.soundcloud.com
 api.mod.io
 api.steampowered.com
 api.twitch.tv
@@ -147,6 +149,7 @@ ufouxbwn.com
 vast.ufouxbwn.com
 video-ik-ok-ii.xyz
 video.akamai.steamstatic.com
+video.twimg.com
 vidoomy.com
 vortex.data.microsoft.com
 web.archive.org
