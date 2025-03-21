@@ -35,5 +35,5 @@
 ## Дополнительные адреса заблокированных сайтов
 - Можно добавить в список list-general.txt для `1_antizapret_general_v№.cmd` и `2_service_antizapret_general_install_v№.cmd` или в список list-extended.txt для `1_antizapret_extended_v№.cmd` и `2_service_antizapret_extended_install_v№.cmd`. После добавления, службу antizapret надо перезапустить.
 
-## Оригинальный репозиторий:
-- https://github.com/bol-van/zapret/tree/master
+## Альтернатива
+https://github.com/bol-van/zapret-win-bundle
