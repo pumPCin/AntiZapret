@@ -18,6 +18,7 @@ api.twitch.tv
 archive.org
 avatars.akamai.steamstatic.com
 bbc.com
+betterttv.net
 boom-img.com
 bootstrapcdn.com
 cdn.akamai.steamstatic.com
@@ -75,7 +76,9 @@ facebook.com
 fandom.com
 fbcdn.net
 fburl.com
+ffzap.com
 fonts.googleapis.com
+frankerfacez.com
 gateway.discord.gg
 ggpht.com
 googleads.g.doubleclick.net
