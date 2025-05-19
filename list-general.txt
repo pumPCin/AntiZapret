@@ -30,6 +30,7 @@ cdn.vigo.one
 cdninstagram.com
 cdnjs.cloudflare.com
 clan.akamai.steamstatic.com
+clients6.google.com
 cloud.kodik-storage.com
 cloudflare-ech.com
 cloudflare.com
