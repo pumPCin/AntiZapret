@@ -22,6 +22,7 @@ betterttv.net
 boom-img.com
 bootstrapcdn.com
 cdn.akamai.steamstatic.com
+cdn.battleye.com
 cdn.betterttv.net
 cdn.discordapp.com
 cdn.frankerfacez.com
