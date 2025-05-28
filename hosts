@@ -50,6 +50,7 @@
 204.12.192.222 labs.google
 204.12.192.222 notebooklm.google
 204.12.192.222 notebooklm.google.com
+204.12.192.222 jules.google.com
 # Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming
 204.12.192.222 copilot.microsoft.com
 204.12.192.222 sydney.bing.com
@@ -57,6 +58,7 @@
 204.12.192.221 rewards.bing.com
 78.40.217.193 xsts.auth.xboxlive.com
 50.7.87.86 xgpuwebf2p.gssv-play-prod.xboxlive.com
+50.7.87.86 xgpuweb.gssv-play-prod.xboxlive.com
 # Spotify
 204.12.192.222 api.spotify.com
 204.12.192.222 xpui.app.spotify.com
@@ -87,6 +89,8 @@
 204.12.192.222 elevenlabs.io
 204.12.192.222 api.us.elevenlabs.io
 204.12.192.222 elevenreader.io
+204.12.192.222 api.elevenlabs.io
+204.12.192.222 help.elevenlabs.io
 # Truth Social
 204.12.192.221 truthsocial.com
 204.12.192.221 static-assets-1.truthsocial.com
