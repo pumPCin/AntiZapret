@@ -83,6 +83,7 @@ fonts.googleapis.com
 frankerfacez.com
 gateway.discord.gg
 ggpht.com
+google.ru
 googleads.g.doubleclick.net
 googleadservices.com
 googleapis.com
@@ -90,6 +91,7 @@ googlesyndication.com
 googletagmanager.com
 googleusercontent.com
 googlevideo.com
+gstatic.com
 gvt1.com
 help.steampowered.com
 help.twitch.tv
@@ -131,6 +133,8 @@ rutracker.org
 safeframe.googlesyndication.com
 shared.akamai.steamstatic.com
 shared.cloudflare.steamstatic.com
+sndcdn.com
+soundcloud.cloud
 soundcloud.com
 stable.dl2.discordapp.net
 stackpath.bootstrapcdn.com
@@ -176,6 +180,7 @@ youtubekids.com
 yt-video-upload.l.google.com
 yt.be
 yt3.ggpht.com
+yt3.googleusercontent.com
 yt4.ggpht.com
 ytimg.com
 ytimg.l.google.com

@@ -16,6 +16,6 @@ sc delete "zapret"
 net stop %SRVCNAME%
 sc delete %SRVCNAME%
 sc create %SRVCNAME% binPath= "\"%~dp0winws.exe\" %ARGS%" DisplayName= "AntiZapret Service V2 (Extended list): %SRVCNAME%" start= auto
-sc description %SRVCNAME% "AntiZapret Service (Extended list)"
+sc description %SRVCNAME% "AntiZapret Service V2 (Extended list)"
 sc start %SRVCNAME%
 pause

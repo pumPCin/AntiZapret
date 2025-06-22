@@ -41238,6 +41238,7 @@ goodzips.com
 goodzone-centre.ru
 googas.ru
 googfininvest.uk
+google.ru
 google24shop.biz
 googleads.g.doubleclick.net
 googleadservices.com
@@ -42626,6 +42627,7 @@ gssinfo.ru
 gsslab1.name
 gssteroids.com
 gst-stepn.ru
+gstatic.com
 gstk-sevastopol.ru
 gt-bikes.ru
 gt-club.sbs
@@ -103864,6 +103866,7 @@ snapstreamdb.com
 snapsutra.com
 snapto.link
 snaptube.su
+sndcdn.com
 sndm0vrt7.com
 sndmovrt6.com
 sneaker-stock.ru
@@ -104602,6 +104605,7 @@ soulpark.kz
 soulunveiled.online
 sound-essentials.com
 soundchopstudio.ru
+soundcloud.cloud
 soundcloud.com
 soundfor.ru
 soundfresh.su
@@ -125355,6 +125359,7 @@ yszlordfilm.ru
 yt-video-upload.l.google.com
 yt.be
 yt3.ggpht.com
+yt3.googleusercontent.com
 yt4.ggpht.com
 ytaunion.com
 ytbplay.com
