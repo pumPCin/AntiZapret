@@ -9,6 +9,7 @@ adservice.google.com
 akamai.steamstatic.com
 aksor.pro
 amazon.com
+amazonaws.com
 aniboom.one
 animego.org
 api-v2.soundcloud.com
@@ -17,6 +18,8 @@ api.steampowered.com
 api.twitch.tv
 archive.org
 avatars.akamai.steamstatic.com
+awsstatic.com
+b-cdn.net
 bbc.com
 betterttv.net
 boom-img.com
@@ -36,6 +39,7 @@ cloud.kodik-storage.com
 cloudflare-ech.com
 cloudflare.com
 cloudflare.steamstatic.com
+cloudfront.net
 cm.mgid.com
 code.jquery.com
 community.akamai.steamstatic.com
