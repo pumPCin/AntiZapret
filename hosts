@@ -5,11 +5,13 @@
 255.255.255.255 broadcasthost
 # Addon for AntiZapret
 157.240.245.174 b.i.instagram.com
+157.240.245.174 help.instagram.com
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
 157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
 3.66.189.153 mail.proton.me
 3.66.189.153 protonmail.com
+52.223.13.41 tracker.openbittorrent.com
 64.233.164.198 yt3.ggpht.com
 # Epic games
 50.7.85.220 epicgames.com
@@ -33,19 +35,15 @@
 204.12.192.222 chatgpt.com
 204.12.192.222 files.oaiusercontent.com
 204.12.192.222 platform.openai.com
-204.12.192.222 sora.com
+204.12.192.222 sora.chatgpt.com
 204.12.192.222 tcr9i.chat.openai.com
 204.12.192.222 webrtc.chatgpt.com
-# Gemini, Gemini API, AI Studio, Google Labs, NotebookLM
-# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming
+# Google services
 204.12.192.219 aisandbox-pa.googleapis.com
 204.12.192.221 alkalimakersuite-pa.clients6.google.com
 204.12.192.221 assistant-s3-pa.googleapis.com
-204.12.192.221 rewards.bing.com
 204.12.192.222 aistudio.google.com
 204.12.192.222 aitestkitchen.withgoogle.com
-204.12.192.222 copilot.microsoft.com
-204.12.192.222 edgeservices.bing.com
 204.12.192.222 gemini.google.com
 204.12.192.222 generativelanguage.googleapis.com
 204.12.192.222 jules.google.com
@@ -54,12 +52,18 @@
 204.12.192.222 notebooklm.google.com
 204.12.192.222 o.pki.goog
 204.12.192.222 proactivebackend-pa.googleapis.com
-204.12.192.222 sydney.bing.com
+204.12.192.222 stitch.withgoogle.com
 204.12.192.222 webchannel-alkalimakersuite-pa.clients6.google.com
+# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming
+204.12.192.221 rewards.bing.com
+204.12.192.222 copilot.microsoft.com
+204.12.192.222 edgeservices.bing.com
+204.12.192.222 sydney.bing.com
 50.7.87.86 xgpuweb.gssv-play-prod.xboxlive.com
 50.7.87.86 xgpuwebf2p.gssv-play-prod.xboxlive.com
 78.40.217.193 xsts.auth.xboxlive.com
 # Spotify
+204.12.192.221 open.spotify.com
 204.12.192.222 accounts.spotify.com
 204.12.192.222 aet.spotify.com
 204.12.192.222 ap-gew1.spotify.com
@@ -70,7 +74,6 @@
 204.12.192.222 gew1-spclient.spotify.com
 204.12.192.222 login.app.spotify.com
 204.12.192.222 login5.spotify.com
-204.12.192.222 open.spotify.com
 204.12.192.222 spclient.wg.spotify.com
 204.12.192.222 spotify.com
 204.12.192.222 spotifycdn.com
@@ -80,8 +83,8 @@
 50.7.85.219 inference.codeium.com
 50.7.87.85 codeium.com
 # GitHub Copilot
-50.7.85.221 api.individual.githubcopilot.com
-50.7.87.83 proxy.individual.githubcopilot.com
+204.12.192.222 api.individual.githubcopilot.com
+204.12.192.222 proxy.individual.githubcopilot.com
 50.7.87.84 api.github.com
 # JetBrains
 107.150.34.100 plugins.jetbrains.com
@@ -113,11 +116,44 @@
 204.12.192.222 listen.tidal.com
 204.12.192.222 login.tidal.com
 204.12.192.222 resources.tidal.com
+# DeepL
+204.12.192.219 w.deepl.com
+204.12.192.222 deepl.com
+204.12.192.222 dict.deepl.com
+204.12.192.222 experimentation.deepl.com
+204.12.192.222 ita-free.www.deepl.com
+204.12.192.222 login-wall.deepl.com
+204.12.192.222 s.deepl.com
+204.12.192.222 write-free.www.deepl.com
+204.12.192.222 www.deepl.com
+204.12.192.222 www2.deepl.com
+# Deezer
+204.12.192.220 deezer.com
+204.12.192.220 dzcdn.net
+204.12.192.220 payment.deezer.com
+204.12.192.220 www.deezer.com
+# Weather.com
+204.12.192.220 upsx.weather.com
+204.12.192.220 weather.com
+# Guilded
+204.12.192.219 guilded.gg
+204.12.192.219 www.guilded.gg
+# Twitch
+45.95.233.23 gql.twitch.tv
+45.95.233.23 usher.ttvnw.net
+# Fitbit
+204.12.192.219 api.fitbit.com
+204.12.192.219 fitbit-pa.googleapis.com
+204.12.192.219 fitbit.google.com
+204.12.192.219 fitbitvestibuleshim-pa.googleapis.com
 # Other
 107.150.34.99 builds.parsec.app
 142.54.189.106 web.archive.org
 204.12.192.219 www.dell.com
+204.12.192.220 api.imgur.com
+204.12.192.220 console.anthropic.com
 204.12.192.220 developer.nvidia.com
+204.12.192.220 tria.ge
 204.12.192.222 claude.ai
 204.12.192.222 www.intel.com
 204.12.192.222 www.notion.so
