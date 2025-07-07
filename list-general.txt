@@ -14,6 +14,7 @@ amnezia.org
 ampproject.org
 aniboom.one
 animego.org
+api.github.com
 api-v2.soundcloud.com
 api.mod.io
 api.steampowered.com
@@ -100,6 +101,7 @@ frankerfacez.com
 gateway.discord.gg
 gekkk.co
 ggpht.com
+github.com
 godaddy.com
 google.ru
 googleads.g.doubleclick.net
