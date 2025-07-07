@@ -14,8 +14,8 @@ amnezia.org
 ampproject.org
 aniboom.one
 animego.org
-api.github.com
 api-v2.soundcloud.com
+api.github.com
 api.mod.io
 api.steampowered.com
 api.twitch.tv
