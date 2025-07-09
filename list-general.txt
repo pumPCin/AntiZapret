@@ -15,6 +15,7 @@ ampproject.org
 aniboom.one
 animego.org
 api-v2.soundcloud.com
+api.github.com
 api.mod.io
 api.steampowered.com
 api.twitch.tv
@@ -100,6 +101,7 @@ frankerfacez.com
 gateway.discord.gg
 gekkk.co
 ggpht.com
+github.com
 godaddy.com
 google.ru
 googleads.g.doubleclick.net
