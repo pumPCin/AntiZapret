@@ -33,7 +33,6 @@
 204.12.192.219 w.deepl.com
 204.12.192.219 www.dell.com
 204.12.192.219 www.guilded.gg
-204.12.192.219 www.tiktok.com
 204.12.192.220 api.imgur.com
 204.12.192.220 console.anthropic.com
 204.12.192.220 deezer.com
@@ -55,7 +54,6 @@
 204.12.192.220 www.deezer.com
 204.12.192.221 alkalimakersuite-pa.clients6.google.com
 204.12.192.221 assistant-s3-pa.googleapis.com
-204.12.192.221 datalore.jetbrains.com
 204.12.192.221 images.tidal.com
 204.12.192.221 open.spotify.com
 204.12.192.221 operator.chatgpt.com
@@ -72,6 +70,7 @@
 204.12.192.222 api-global.squareup.com
 204.12.192.222 api-partner.spotify.com
 204.12.192.222 api.elevenlabs.io
+204.12.192.222 api.github.com
 204.12.192.222 api.individual.githubcopilot.com
 204.12.192.222 api.openai.com
 204.12.192.222 api.spotify.com
@@ -132,7 +131,6 @@
 204.12.192.222 webchannel-alkalimakersuite-pa.clients6.google.com
 204.12.192.222 webrtc.chatgpt.com
 204.12.192.222 write-free.www.deepl.com
-204.12.192.222 www.canva.com
 204.12.192.222 www.deepl.com
 204.12.192.222 www.intel.com
 204.12.192.222 www.notion.so
@@ -147,6 +145,9 @@
 45.95.233.23 usher.ttvnw.net
 45.95.233.23 www.dyson.com
 45.95.233.23 www.dyson.fr
+50.7.85.219 www.tiktok.com
+50.7.85.221 datalore.jetbrains.com
+50.7.85.222 www.canva.com
 52.223.13.41 tracker.openbittorrent.com
 64.233.164.198 yt3.ggpht.com
 #
