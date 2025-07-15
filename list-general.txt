@@ -49,6 +49,7 @@ cloudflare.com
 cloudflare.steamstatic.com
 cloudfront.net
 cm.mgid.com
+codeload.github.com
 code.jquery.com
 community.akamai.steamstatic.com
 conversations.im
