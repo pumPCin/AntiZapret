@@ -26,6 +26,7 @@ googlevideo.com
 jnn-pa.googleapis.com
 play.google.com
 stable.dl2.discordapp.net
+static.doubleclick.net
 wide-youtube.l.google.com
 youtu.be
 youtube-nocookie.com

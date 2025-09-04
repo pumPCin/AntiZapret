@@ -10,7 +10,6 @@ acheterdesfollowersinstagram.com
 acheterfollowersinstagram.com
 ad.doubleclick.net
 adservice.google.com
-akamai.steamstatic.com
 aksor.pro
 amazon.com
 amazonaws.com
@@ -20,13 +19,11 @@ aniboom.one
 animego.org
 api-v2.soundcloud.com
 api.mod.io
-api.steampowered.com
 api.twitch.tv
 appspot.com
 archive.org
 arma3.com
 armaplatform.com
-avatars.akamai.steamstatic.com
 avira.com
 awsstatic.com
 b-cdn.net
@@ -40,7 +37,6 @@ bootstrapcdn.com
 botnadzor.org
 byteoversea.com
 carstagram.com
-cdn.akamai.steamstatic.com
 cdn.battleye.com
 cdn.betterttv.net
 cdn.bohemia.net
@@ -53,18 +49,15 @@ cdnjs.cloudflare.com
 censorship.no
 censortracker.org
 chickstagram.com
-clan.akamai.steamstatic.com
 clients6.google.com
 cloud.kodik-storage.com
 cloudflare-dns.com
 cloudflare-ech.com
 cloudflare-ipfs.com
 cloudflare.com
-cloudflare.steamstatic.com
 cloudfront.net
 cm.mgid.com
 code.jquery.com
-community.akamai.steamstatic.com
 conversations.im
 dev.twitch.tv
 developer.valvesoftware.com
@@ -129,7 +122,6 @@ gstatic.com
 gvt1.com
 hd-rezka.one
 hd-rezka.tv
-help.steampowered.com
 help.twitch.tv
 holod.media
 i.ytimg.com
@@ -263,7 +255,6 @@ rutracker.nl
 rutracker.org
 rutracker.ru
 safeframe.googlesyndication.com
-shared.akamai.steamstatic.com
 shared.cloudflare.steamstatic.com
 signal.org
 sndcdn.com
@@ -274,12 +265,6 @@ stackpath.bootstrapcdn.com
 static.doubleclick.net
 static.rutracker.cc
 stats.g.doubleclick.net
-steamcommunity.com
-steamcontent.com
-steamstatic.com
-store.akamai.steamstatic.com
-store.steampowered.com
-support.steampowered.com
 t.co
 t.me
 te-st.org
@@ -307,7 +292,6 @@ vast.ufouxbwn.com
 vector.im
 viber.com
 video-ik-ok-ii.xyz
-video.akamai.steamstatic.com
 video.twimg.com
 vidoomy.com
 vortex.data.microsoft.com
