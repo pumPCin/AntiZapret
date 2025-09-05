@@ -22,6 +22,7 @@ discordmerch.com
 discordpartygames.com
 discordsays.com
 discordsez.com
+googleadservices.com
 googlevideo.com
 jnn-pa.googleapis.com
 play.google.com
