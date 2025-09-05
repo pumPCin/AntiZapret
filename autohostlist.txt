@@ -33,10 +33,14 @@ youtu.be
 youtube-nocookie.com
 youtube-ui.l.google.com
 youtube.com
+youtube.googleapis.com
 youtubeembeddedplayer.googleapis.com
 youtubei.googleapis.com
+youtubekids.com
 yt-video-upload.l.google.com
+yt.be
 yt3.ggpht.com
+yt3.googleusercontent.com
 yt4.ggpht.com
 ytimg.com
 ytimg.l.google.com
