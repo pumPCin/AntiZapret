@@ -13,7 +13,7 @@
 - Если не работает версия auto v1 попробуйте general/extended v1,v2,v3,v4
 
 ## Установка в виде службы antizapret (одну на выбор):
-- **`1_service_antizapret_auto_install_v1.cmd`** - для обхода блокировки сайтов, список создается автоматически в файле autohostlist.txt
+- **`2_service_antizapret_auto_install_v1.cmd`** - для обхода блокировки сайтов, список создается автоматически в файле autohostlist.txt
 - **`2_service_antizapret_general_install_v1.cmd`** - для обхода блокировки сайтов из списка в файле list-general.txt
 - **`2_service_antizapret_extended_install_v1.cmd`** - для обхода блокировки сайтов из списка в файле list-extended.txt
 - Если не работает версия auto v1 попробуйте general/extended v1,v2,v3,v4
