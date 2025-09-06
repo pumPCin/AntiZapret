@@ -26,6 +26,16 @@ googleadservices.com
 googlevideo.com
 jnn-pa.googleapis.com
 play.google.com
+rutracker.cc
+rutracker.cloud
+rutracker.cr
+rutracker.in
+rutracker.is
+rutracker.me
+rutracker.net
+rutracker.nl
+rutracker.org
+rutracker.ru
 stable.dl2.discordapp.net
 static.doubleclick.net
 wide-youtube.l.google.com

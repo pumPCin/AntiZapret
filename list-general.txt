@@ -255,7 +255,6 @@ rutracker.nl
 rutracker.org
 rutracker.ru
 safeframe.googlesyndication.com
-shared.cloudflare.steamstatic.com
 signal.org
 sndcdn.com
 soundcloud.cloud
