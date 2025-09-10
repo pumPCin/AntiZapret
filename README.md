@@ -10,13 +10,13 @@
 - **`1_antizapret_auto_v1.cmd`** - обход блокировки сайтов, список создается автоматически в файле autohostlist.txt
 - **`1_antizapret_general_v1.cmd`** - обход блокировки сайтов из списка в файле list-general.txt
 - **`1_antizapret_extended_v1.cmd`** - обход блокировки сайтов из списка в файле list-extended.txt
-- Если не работает версия auto v1,v2 - попробуйте general/extended v1,v2,v3,v4
+- Если не работает версия auto v1,v2,v3 - попробуйте general/extended v1,v2,v3,v4
 
 ## Установка в виде службы antizapret (одну на выбор):
 - **`2_service_antizapret_auto_install_v1.cmd`** - обход блокировки сайтов, список создается автоматически в файле autohostlist.txt
 - **`2_service_antizapret_general_install_v1.cmd`** - обход блокировки сайтов из списка в файле list-general.txt
 - **`2_service_antizapret_extended_install_v1.cmd`** - обход блокировки сайтов из списка в файле list-extended.txt
-- Если не работает версия auto v1,v2 - попробуйте general/extended v1,v2,v3,v4
+- Если не работает версия auto v1,v2,v3 - попробуйте general/extended v1,v2,v3,v4
 
 ## Удаление службы antizapret (ранее установленной выше)
 - **`3_service_remove.cmd`** - остановить и удалить службу antizapret.
