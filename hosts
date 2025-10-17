@@ -6,17 +6,6 @@
 #
 # Addon for AntiZapret
 #
-# 4PDA:
-45.81.252.72 cs11a0a.4pda.ws
-54.36.104.75 cs2c9f.4pda.ws
-141.94.143.110 cs3b2e.4pda.ws
-185.234.59.26 cs7f6c.4pda.ws
-185.246.223.127 4pda.to
-185.246.223.127 app.4pda.to
-185.246.223.127 appbk.4pda.to
-185.246.223.127 s.4pda.to
-217.182.194.171 cs4a0d.4pda.ws
-#
 # ChatGPT, OpenAI:
 45.95.233.23 operator.chatgpt.com
 185.246.223.127 ab.chatgpt.com
@@ -98,6 +87,8 @@
 185.246.223.127 proxy.individual.githubcopilot.com
 #
 # Google Services:
+64.233.164.132 yt4.ggpht.com
+64.233.164.198 yt3.ggpht.com
 134.0.118.88 aisandbox-pa.googleapis.com
 134.0.118.88 aistudio.google.com
 134.0.118.88 alkalimakersuite-pa.clients6.google.com
@@ -122,6 +113,12 @@
 # Guilded:
 204.12.192.219 guilded.gg
 204.12.192.219 www.guilded.gg
+#
+# Instagram:
+157.240.245.174 b.i.instagram.com
+157.240.245.174 help.instagram.com
+157.240.245.174 instagram.com
+157.240.245.174 www.instagram.com
 #
 # JetBrains:
 50.7.85.221 datalore.jetbrains.com
@@ -204,18 +201,13 @@
 50.7.85.222 www.canva.com
 52.223.13.41 tracker.openbittorrent.com
 64.188.98.242 api.manus.im
-64.233.164.132 yt4.ggpht.com
-64.233.164.198 yt3.ggpht.com
 107.150.34.99 builds.parsec.app
 130.255.77.28 ntc.party
 142.54.189.106 web.archive.org
-157.240.245.174 b.i.instagram.com
-157.240.245.174 help.instagram.com
-157.240.245.174 instagram.com
-157.240.245.174 www.instagram.com
 157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
 172.64.33.155 rutor.info
 173.245.59.155 rutor.is
+185.87.51.182 controlplane.tailscale.com
 185.246.223.127 api.imgur.com
 185.246.223.127 developer.nvidia.com
 185.246.223.127 guidedhacking.com
@@ -225,7 +217,6 @@
 185.246.223.127 www.intel.com
 185.246.223.127 www.notion.so
 185.246.223.127 www.qwant.com
-185.87.51.182 controlplane.tailscale.com
 #
 ## IP Loggers:
 0.0.0.0 2no.co
