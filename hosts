@@ -6,6 +6,12 @@
 #
 # Addon for AntiZapret
 #
+# 4PDA:
+185.246.223.127 4pda.to
+185.246.223.127 app.4pda.to
+185.246.223.127 appbk.4pda.to
+185.246.223.127 s.4pda.to
+#
 # ChatGPT, OpenAI:
 45.95.233.23 operator.chatgpt.com
 185.246.223.127 ab.chatgpt.com
@@ -82,7 +88,7 @@
 185.246.223.127 fitbitvestibuleshim-pa.googleapis.com
 #
 # GitHub Copilot:
-185.246.223.127 api.github.com
+50.7.87.84 api.github.com
 185.246.223.127 api.individual.githubcopilot.com
 185.246.223.127 proxy.individual.githubcopilot.com
 #
@@ -123,6 +129,8 @@
 # JetBrains:
 50.7.85.221 datalore.jetbrains.com
 107.150.34.100 plugins.jetbrains.com
+185.246.223.127 account.jetbrains.com
+185.246.223.127 api.jetbrains.ai
 185.246.223.127 download.jetbrains.com
 #
 # Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
@@ -188,6 +196,10 @@
 # Truth Social:
 204.12.192.219 static-assets-1.truthsocial.com
 204.12.192.219 truthsocial.com
+#
+# Weather.com:
+185.246.223.127 upsx.weather.com
+185.246.223.127 weather.com
 #
 ## Others:
 3.66.189.153 mail.proton.me
