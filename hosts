@@ -67,14 +67,18 @@
 185.246.223.127 help.elevenlabs.io
 #
 # Epic Games:
-134.0.118.88 epicgames.com
-134.0.118.88 ol.epicgames.com
-134.0.118.88 on.epicgames.com
-134.0.118.88 payment-website-pci.ol.epicgames.com
-134.0.118.88 perf.store.on.epicgames.com
-134.0.118.88 store.epicgames.com
-134.0.118.88 store.on.epicgames.com
-134.0.118.88 tracking.epicgames.com
+142.54.189.106 ecosec.on.epicgames.com
+142.54.189.106 epicgames.com
+142.54.189.106 merchantpool1.epicgames.com
+142.54.189.106 ol.epicgames.com
+142.54.189.106 on.epicgames.com
+142.54.189.106 payment-website-pci.ol.epicgames.com
+142.54.189.106 perf.store.on.epicgames.com
+142.54.189.106 static-assets-prod.epicgames.com
+142.54.189.106 store.epicgames.com
+142.54.189.106 store.on.epicgames.com
+142.54.189.106 talon-service-prod.ecosec.on.epicgames.com
+142.54.189.106 tracking.epicgames.com
 #
 # Fitbit:
 185.246.223.127 api.fitbit.com
