@@ -1,3 +1,4 @@
+cdnjs.cloudflare.com
 cloudflare-ech.com
 dis.gd
 discord-activities.com
@@ -22,10 +23,16 @@ discordmerch.com
 discordpartygames.com
 discordsays.com
 discordsez.com
+facebook.com
+gleamio.com
+google.com
+google.ru
 googleadservices.com
 googlevideo.com
 jnn-pa.googleapis.com
+microsoft.com
 play.google.com
+proton.me
 rutracker.cc
 rutracker.cloud
 rutracker.cr
@@ -37,7 +44,10 @@ rutracker.nl
 rutracker.org
 rutracker.ru
 stable.dl2.discordapp.net
+static-assets-prod.epicgames.com
 static.doubleclick.net
+steamdb.info
+store.epicgames.com
 wide-youtube.l.google.com
 youtu.be
 youtube-nocookie.com
