@@ -1,0 +1,260 @@
+# localhost name resolution is handled within DNS itself.
+127.0.0.1 local
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+255.255.255.255 broadcasthost
+#
+# Addon for AntiZapret
+#
+# ChatGPT, OpenAI:
+45.95.233.23 operator.chatgpt.com
+185.246.223.127 ab.chatgpt.com
+185.246.223.127 android.chat.openai.com
+185.246.223.127 api.openai.com
+185.246.223.127 auth.openai.com
+185.246.223.127 auth0.openai.com
+185.246.223.127 cdn.auth0.com
+185.246.223.127 cdn.oaistatic.com
+185.246.223.127 chatgpt.com
+185.246.223.127 files.oaiusercontent.com
+185.246.223.127 ios.chat.openai.com
+185.246.223.127 platform.openai.com
+185.246.223.127 sora.chatgpt.com
+185.246.223.127 sora.com
+185.246.223.127 tcr9i.chat.openai.com
+185.246.223.127 videos.openai.com
+185.246.223.127 webrtc.chatgpt.com
+#
+# Claude:
+185.246.223.127 api.anthropic.com
+185.246.223.127 auth.anthropic.com
+185.246.223.127 claude.ai
+185.246.223.127 console.anthropic.com
+#
+# DeepL:
+185.246.223.127 api-free.deepl.com
+185.246.223.127 auth.deepl.com
+185.246.223.127 backend.deepl.com
+185.246.223.127 clearance.deepl.com
+185.246.223.127 deepl.com
+185.246.223.127 dict.deepl.com
+185.246.223.127 errortracking.deepl.com
+185.246.223.127 experimentation-grpc.deepl.com
+185.246.223.127 experimentation.deepl.com
+185.246.223.127 ita-free.app.deepl.com
+185.246.223.127 ita-free.www.deepl.com
+185.246.223.127 login-wall.deepl.com
+185.246.223.127 oneshot-free.www.deepl.com
+185.246.223.127 ott.deepl.com
+185.246.223.127 s.deepl.com
+185.246.223.127 shield.deepl.com
+185.246.223.127 w.deepl.com
+185.246.223.127 write-free.www.deepl.com
+185.246.223.127 www.deepl.com
+185.246.223.127 www2.deepl.com
+#
+# Deezer:
+185.246.223.127 deezer.com
+185.246.223.127 dzcdn.net
+185.246.223.127 payment.deezer.com
+185.246.223.127 www.deezer.com
+#
+# ElevenLabs:
+185.246.223.127 api.elevenlabs.io
+185.246.223.127 api.us.elevenlabs.io
+185.246.223.127 elevenlabs.io
+185.246.223.127 elevenreader.io
+185.246.223.127 help.elevenlabs.io
+#
+# Epic Games:
+142.54.189.106 ecosec.on.epicgames.com
+142.54.189.106 epicgames.com
+142.54.189.106 merchantpool1.epicgames.com
+142.54.189.106 ol.epicgames.com
+142.54.189.106 on.epicgames.com
+142.54.189.106 payment-website-pci.ol.epicgames.com
+142.54.189.106 perf.store.on.epicgames.com
+142.54.189.106 static-assets-prod.epicgames.com
+142.54.189.106 store.epicgames.com
+142.54.189.106 store.on.epicgames.com
+142.54.189.106 talon-service-prod.ecosec.on.epicgames.com
+142.54.189.106 tracking.epicgames.com
+#
+# Fitbit:
+185.246.223.127 api.fitbit.com
+185.246.223.127 fitbit-pa.googleapis.com
+185.246.223.127 fitbit.google.com
+185.246.223.127 fitbitvestibuleshim-pa.googleapis.com
+#
+# GitHub Copilot:
+185.246.223.127 api.github.com
+185.246.223.127 api.individual.githubcopilot.com
+185.246.223.127 proxy.individual.githubcopilot.com
+#
+# Google Services:
+64.233.164.132 yt4.ggpht.com
+64.233.164.198 yt3.ggpht.com
+134.0.118.88 aisandbox-pa.googleapis.com
+134.0.118.88 aistudio.google.com
+134.0.118.88 alkalimakersuite-pa.clients6.google.com
+134.0.118.88 assistant-s3-pa.googleapis.com
+134.0.118.88 generativelanguage.googleapis.com
+134.0.118.88 proactivebackend-pa.googleapis.com
+134.0.118.88 robinfrontend-pa.googleapis.com
+134.0.118.88 webchannel-alkalimakersuite-pa.clients6.google.com
+185.246.223.127 aitestkitchen.withgoogle.com
+185.246.223.127 gemini.google.com
+185.246.223.127 jules.google.com
+185.246.223.127 labs.google
+185.246.223.127 notebooklm.google
+185.246.223.127 notebooklm.google.com
+185.246.223.127 o.pki.goog
+185.246.223.127 stitch.withgoogle.com
+#
+# Grok:
+185.246.223.127 accounts.x.ai
+185.246.223.127 assets.grok.com
+185.246.223.127 grok.com
+#
+# Instagram:
+157.240.245.174 b.i.instagram.com
+157.240.245.174 help.instagram.com
+157.240.245.174 instagram.com
+157.240.245.174 www.instagram.com
+#
+# JetBrains:
+50.7.85.221 datalore.jetbrains.com
+107.150.34.100 plugins.jetbrains.com
+185.246.223.127 account.jetbrains.com
+185.246.223.127 api.jetbrains.ai
+185.246.223.127 download.jetbrains.com
+#
+# Linear.app:
+185.246.223.127 client-api.linear.app
+185.246.223.127 constellation.linear.app
+185.246.223.127 linear.app
+185.246.223.127 public.linear.app
+185.246.223.127 s.linear.app
+185.246.223.127 static.linear.app
+185.246.223.127 uploads.linear.app
+#
+# Microsoft Copilot, Microsoft Rewards, Xbox, Xbox Cloud Gaming:
+45.95.233.23 rewards.bing.com
+185.246.223.127 copilot.microsoft.com
+185.246.223.127 edgeservices.bing.com
+185.246.223.127 sydney.bing.com
+185.246.223.127 xgpuweb.gssv-play-prod.xboxlive.com
+185.246.223.127 xgpuwebf2p.gssv-play-prod.xboxlive.com
+185.246.223.127 xsts.auth.xboxlive.com
+#
+# Spotify:
+185.246.223.127 accounts.spotify.com
+185.246.223.127 aet.spotify.com
+185.246.223.127 ap-gew1.spotify.com
+185.246.223.127 api-partner.spotify.com
+185.246.223.127 api.spotify.com
+185.246.223.127 appresolve.spotify.com
+185.246.223.127 encore.scdn.co
+185.246.223.127 gew1-spclient.spotify.com
+185.246.223.127 login.app.spotify.com
+185.246.223.127 login5.spotify.com
+185.246.223.127 open.spotify.com
+185.246.223.127 spclient.wg.spotify.com
+185.246.223.127 www.spotify.com
+185.246.223.127 xpui.app.spotify.com
+#
+# Supercell:
+45.95.233.23 accounts.supercell.com
+45.95.233.23 game.clashroyaleapp.com
+45.95.233.23 game.mocogame.com
+64.188.98.242 gamea.clashofclans.com
+108.61.167.26 game.squadbustersgame.com
+185.246.223.127 cdn.id.supercell.com
+185.246.223.127 clashofclans.inbox.supercell.com
+185.246.223.127 game-assets.brawlstarsgame.com
+185.246.223.127 game-assets.clashofclans.com
+185.246.223.127 game-assets.clashroyaleapp.com
+185.246.223.127 game.brawlstarsgame.com
+185.246.223.127 security.id.supercell.com
+185.246.223.127 store.supercell.com
+#
+# Tidal:
+45.95.233.23 images.tidal.com
+185.246.223.127 api-global.squareup.com
+185.246.223.127 api.squareup.com
+185.246.223.127 api.tidal.com
+185.246.223.127 auth.tidal.com
+185.246.223.127 dd.tidal.com
+185.246.223.127 fsu.fa.tidal.com
+185.246.223.127 geolocation.onetrust.com
+185.246.223.127 link.tidal.com
+185.246.223.127 listen.tidal.com
+185.246.223.127 login.tidal.com
+185.246.223.127 resources.tidal.com
+#
+# Trae.ai:
+185.246.223.127 api-sg-central.trae.ai
+185.246.223.127 api.trae.ai
+185.246.223.127 api16-normal-alisg.mchost.guru
+185.246.223.127 trae-api-sg.mchost.guru
+#
+# Weather.com:
+185.246.223.127 upsx.weather.com
+185.246.223.127 weather.com
+#
+# Windsurf:
+185.246.223.127 codeium.com
+185.246.223.127 codeiumdata.com
+185.246.223.127 inference.codeium.com
+185.246.223.127 marketplace.windsurf.com
+185.246.223.127 server.codeium.com
+185.246.223.127 unleash.codeium.com
+185.246.223.127 web-backend.codeium.com
+185.246.223.127 windsurf-stable.codeium.com
+185.246.223.127 windsurf-telemetry.codeium.com
+185.246.223.127 windsurf.com
+#
+## Others:
+3.66.189.153 mail.proton.me
+3.66.189.153 protonmail.com
+45.95.233.23 eu.posthog.com
+45.95.233.23 test.dns.malw.link
+45.95.233.23 usher.ttvnw.net
+45.95.233.23 www.dyson.com
+45.95.233.23 www.dyson.fr
+50.7.85.219 www.tiktok.com
+50.7.85.222 www.canva.com
+52.223.13.41 tracker.openbittorrent.com
+64.188.98.242 api.manus.im
+107.150.34.99 builds.parsec.app
+130.255.77.28 ntc.party
+142.54.189.106 web.archive.org
+157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
+172.64.33.155 d.rutor.info
+172.64.33.155 rutor.info
+173.245.59.155 rutor.is
+185.87.51.182 controlplane.tailscale.com
+185.246.223.127 api.imgur.com
+185.246.223.127 developer.nvidia.com
+185.246.223.127 framer.com
+185.246.223.127 guidedhacking.com
+185.246.223.127 profile.broadcom.com
+185.246.223.127 tria.ge
+185.246.223.127 www.dell.com
+185.246.223.127 www.intel.com
+185.246.223.127 www.notion.so
+185.246.223.127 www.qwant.com
+#
+## IP Loggers:
+0.0.0.0 2no.co
+0.0.0.0 bc.ax
+0.0.0.0 ed.tc
+0.0.0.0 ezstat.ru
+0.0.0.0 grabify.org
+0.0.0.0 iplis.ru
+0.0.0.0 iplog.co
+0.0.0.0 iplogger.org
+0.0.0.0 maper.info
+0.0.0.0 wl.gl
+0.0.0.0 yip.su
+#
