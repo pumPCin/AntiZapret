@@ -92,8 +92,6 @@
 185.246.223.127 proxy.individual.githubcopilot.com
 #
 # Google Services:
-64.233.164.132 yt4.ggpht.com
-64.233.164.198 yt3.ggpht.com
 134.0.118.88 aisandbox-pa.googleapis.com
 134.0.118.88 aistudio.google.com
 134.0.118.88 alkalimakersuite-pa.clients6.google.com
@@ -147,6 +145,12 @@
 185.246.223.127 xgpuwebf2p.gssv-play-prod.xboxlive.com
 185.246.223.127 xsts.auth.xboxlive.com
 #
+# Proton:
+45.95.233.23 account-api.proton.me
+45.95.233.23 account.proton.me
+45.95.233.23 mail.proton.me
+45.95.233.23 proton.me
+#
 # Spotify:
 185.246.223.127 accounts.spotify.com
 185.246.223.127 aet.spotify.com
@@ -192,11 +196,23 @@
 185.246.223.127 login.tidal.com
 185.246.223.127 resources.tidal.com
 #
+# TikTok:
+45.95.233.23 neutral.ttwstatic.com
+45.95.233.23 tiktok.com
+45.95.233.23 tiktokcdn.com
+45.95.233.23 tiktokv.com
+45.95.233.23 ttwstatic.com
+45.95.233.23 vt.tiktok.com
+#
 # Trae.ai:
 185.246.223.127 api-sg-central.trae.ai
 185.246.223.127 api.trae.ai
 185.246.223.127 api16-normal-alisg.mchost.guru
 185.246.223.127 trae-api-sg.mchost.guru
+#
+# Twitch:
+185.246.223.127 gql.twitch.tv
+45.95.233.23 usher.ttvnw.net
 #
 # Weather.com:
 185.246.223.127 upsx.weather.com
@@ -215,14 +231,10 @@
 185.246.223.127 windsurf.com
 #
 ## Others:
-3.66.189.153 mail.proton.me
-3.66.189.153 protonmail.com
 45.95.233.23 eu.posthog.com
 45.95.233.23 test.dns.malw.link
-45.95.233.23 usher.ttvnw.net
 45.95.233.23 www.dyson.com
 45.95.233.23 www.dyson.fr
-50.7.85.219 www.tiktok.com
 50.7.85.222 www.canva.com
 52.223.13.41 tracker.openbittorrent.com
 64.188.98.242 api.manus.im
@@ -233,7 +245,6 @@
 172.64.33.155 d.rutor.info
 172.64.33.155 rutor.info
 173.245.59.155 rutor.is
-185.87.51.182 controlplane.tailscale.com
 185.246.223.127 api.imgur.com
 185.246.223.127 developer.nvidia.com
 185.246.223.127 framer.com
@@ -244,6 +255,7 @@
 185.246.223.127 www.intel.com
 185.246.223.127 www.notion.so
 185.246.223.127 www.qwant.com
+185.87.51.182 controlplane.tailscale.com
 #
 ## IP Loggers:
 0.0.0.0 2no.co
