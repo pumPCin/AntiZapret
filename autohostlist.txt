@@ -1,3 +1,5 @@
+account-api.proton.me
+account.proton.me
 adnxs.com
 api.github.com
 avito.st
@@ -41,7 +43,9 @@ googleapis.com
 googlevideo.com
 imgsmail.ru
 instagram.com
+mail.proton.me
 microsoft.com
+pass.proton.me
 play.google.com
 proton.me
 rutracker.cc
