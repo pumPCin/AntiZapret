@@ -9,6 +9,7 @@ acheter-followers-instagram.com
 acheterdesfollowersinstagram.com
 acheterfollowersinstagram.com
 ad.doubleclick.net
+adnxs.com
 adservice.google.com
 aksor.pro
 amazon.com
@@ -18,6 +19,7 @@ ampproject.org
 aniboom.one
 animego.org
 api-v2.soundcloud.com
+api.github.com
 api.mod.io
 api.twitch.tv
 appspot.com
@@ -29,6 +31,7 @@ awsstatic.com
 b-cdn.net
 bbc.com
 betterttv.net
+bing.com
 bistudio.com
 bohemia.net
 bookstagram.com
@@ -43,12 +46,14 @@ cdn.bohemia.net
 cdn.discordapp.com
 cdn.frankerfacez.com
 cdn.hsmedia.ru
+cdn.prod.website-files.com
 cdn.vigo.one
 cdninstagram.com
 cdnjs.cloudflare.com
 censorship.no
 censortracker.org
 chickstagram.com
+clarity.ms
 clients6.google.com
 cloud.kodik-storage.com
 cloudflare-dns.com
@@ -125,7 +130,9 @@ frankerfacez.com
 gateway.discord.gg
 gekkk.co
 ggpht.com
+gleamio.com
 godaddy.com
+google.com
 google.ru
 googleads.g.doubleclick.net
 googleadservices.com
@@ -212,12 +219,14 @@ kodik.info
 linkedin.com
 linktr.ee
 lnstagram-help.com
+localizeapi.com
 lolz.guru
 makearmanotwar.com
 matrix.org
 matrix.to
 media.discordapp.net
 medium.com
+microsoft.com
 mod.io
 mullvad.net
 muscdn.com
@@ -280,6 +289,7 @@ stackpath.bootstrapcdn.com
 static.doubleclick.net
 static.rutracker.cc
 stats.g.doubleclick.net
+steamdb.info
 t.co
 t.me
 te-st.org
@@ -303,6 +313,7 @@ twitchcdn.net
 twitter.com
 ufouxbwn.com
 ulta.team
+userapi.com
 vast.ufouxbwn.com
 vector.im
 viber.com

@@ -1,5 +1,4 @@
 adnxs.com
-api.epicgames.dev
 api.github.com
 avito.st
 bing.com
@@ -43,10 +42,10 @@ googleapis.com
 googlevideo.com
 imgsmail.ru
 instagram.com
+localizeapi.com
 mail.proton.me
 microsoft.com
 pass.proton.me
-perf.store.on.epicgames.com
 play.google.com
 proton.me
 rutracker.cc
@@ -61,7 +60,6 @@ rutracker.org
 rutracker.ru
 stable.dl2.discordapp.net
 steamdb.info
-tracking.epicgames.com
 userapi.com
 wide-youtube.l.google.com
 youtu.be
