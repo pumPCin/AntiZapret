@@ -4,14 +4,18 @@
 127.0.0.1 localhost.localdomain
 255.255.255.255 broadcasthost
 # Addon for AntiZapret
-# Archive.org:
+
+# Archive.org
 45.155.204.190 web.archive.org
-# Autodesk:
+
+# Autodesk
 45.155.204.190 accounts.autodesk.com
 45.155.204.190 www.autodesk.com
-# Broadcom:
+
+# Broadcom
 45.155.204.190 profile.broadcom.com
-# ChatGPT, OpenAI:
+
+# OpenAI
 45.155.204.190 ab.chatgpt.com
 45.155.204.190 android.chat.openai.com
 45.155.204.190 api.openai.com
@@ -29,15 +33,18 @@
 45.155.204.190 tcr9i.chat.openai.com
 45.155.204.190 videos.openai.com
 45.155.204.190 webrtc.chatgpt.com
-# Canva:
+
+# Canva
 45.155.204.190 content-management-files.canva.com
 45.155.204.190 static.canva.com
-45.155.204.190 www.canva.com
-# Claude:
+144.31.14.104 www.canva.com
+
+# Claude
 45.155.204.190 api.anthropic.com
 45.155.204.190 claude.ai
 45.155.204.190 console.anthropic.com
-# DeepL:
+
+# DeepL
 45.155.204.190 api-free.deepl.com
 45.155.204.190 auth.deepl.com
 45.155.204.190 backend.deepl.com
@@ -54,19 +61,21 @@
 45.155.204.190 login-wall.deepl.com
 45.155.204.190 oneshot-free.www.deepl.com
 45.155.204.190 ott.deepl.com
-45.155.204.190 s.deepl.com
 45.155.204.190 shield.deepl.com
 45.155.204.190 w.deepl.com
 45.155.204.190 write-free.www.deepl.com
 45.155.204.190 www2.deepl.com
 45.155.204.190 www.deepl.com
-# Deezer:
+
+# Deezer
 45.155.204.190 deezer.com
 45.155.204.190 payment.deezer.com
 45.155.204.190 www.deezer.com
-# Dell:
+
+# Dell
 45.155.204.190 www.dell.com
-# Discord:
+
+# Discord
 104.25.158.178 finland10000.discord.media
 104.25.158.178 finland10001.discord.media
 104.25.158.178 finland10002.discord.media
@@ -267,17 +276,23 @@
 104.25.158.178 finland10197.discord.media
 104.25.158.178 finland10198.discord.media
 104.25.158.178 finland10199.discord.media
-# Dyson:
+
+# Dyson
 45.155.204.190 dyson.com
-# ElevenLabs:
-95.182.120.241 elevenlabs.io
+144.31.14.104 www.dyson.com
+144.31.14.104 www.dyson.fr
+
+# ElevenLabs
 45.155.204.190 api.elevenlabs.io
 45.155.204.190 api.us.elevenlabs.io
+45.155.204.190 elevenlabs.io
 45.155.204.190 elevenreader.io
 45.155.204.190 help.elevenlabs.io
-# Elgato:
+
+# Elgato
 45.155.204.190 www.elgato.com
-# Epic Games:
+
+# Epic Games
 45.155.204.190 ak.epicgames.com
 45.155.204.190 api.epicgames.dev
 45.155.204.190 datarouter.ol.epicgames.com
@@ -293,18 +308,22 @@
 45.155.204.190 store.epicgames.com
 45.155.204.190 store.on.epicgames.com
 45.155.204.190 tracking.epicgames.com
-# Fitbit:
+
+# Fitbit
 45.155.204.190 api.fitbit.com
 45.155.204.190 fitbit-pa.googleapis.com
 45.155.204.190 fitbit.google.com
 45.155.204.190 fitbitvestibuleshim-pa.googleapis.com
-# Framer:
+
+# Framer
 45.155.204.190 framer.com
-# GitHub Copilot:
+
+# GitHub Copilot
 144.31.14.104 api.github.com
 144.31.14.104 api.individual.githubcopilot.com
 144.31.14.104 proxy.individual.githubcopilot.com
-# Google:
+
+# Google
 45.155.204.190 aisandbox-pa.googleapis.com
 45.155.204.190 aistudio.google.com
 45.155.204.190 aitestkitchen.withgoogle.com
@@ -325,39 +344,48 @@
 45.155.204.190 stitch.withgoogle.com
 45.155.204.190 webchannel-alkalimakersuite-pa.clients6.google.com
 45.155.204.190 withgoogle.com
-# Grok:
+
+# Grok
 45.155.204.190 accounts.x.ai
 45.155.204.190 assets.grok.com
 45.155.204.190 grok.com
-# guidedhacking.com:
+
+# guidedhacking.com
 45.155.204.190 guidedhacking.com
-# Intel:
+
+# Intel
 45.155.204.190 www.intel.com
-# Imgur:
+
+# Imgur
 45.155.204.190 api.imgur.com
-# Instagram:
+
+# Instagram
 157.240.245.174 b.i.instagram.com
 157.240.245.174 help.instagram.com
 157.240.245.174 instagram.com
 157.240.245.174 www.instagram.com
-# JetBrains:
+
+# JetBrains
 45.155.204.190 account.jetbrains.com
 45.155.204.190 api.jetbrains.ai
 45.155.204.190 datalore.jetbrains.com
 45.155.204.190 download.jetbrains.com
 45.155.204.190 plugins.jetbrains.com
-# Linear.app:
-95.182.120.241 linear.app
+
+# Linear.app
 45.155.204.190 client-api.linear.app
 45.155.204.190 constellation.linear.app
+45.155.204.190 linear.app
 45.155.204.190 public.linear.app
 45.155.204.190 s.linear.app
 45.155.204.190 static.linear.app
 45.155.204.190 uploads.linear.app
-# Manus:
+
+# Manus
 45.155.204.190 api.manus.im
 45.155.204.190 manus.im
-# Microsoft:
+
+# Microsoft
 45.155.204.190 copilot.microsoft.com
 45.155.204.190 edgeservices.bing.com
 45.155.204.190 rewards.bing.com
@@ -365,14 +393,22 @@
 45.155.204.190 xgpuweb.gssv-play-prod.xboxlive.com
 45.155.204.190 xgpuwebf2p.gssv-play-prod.xboxlive.com
 45.155.204.190 xsts.auth.xboxlive.com
-# Notion:
+
+# Notion
 45.155.204.190 calendar.notion.so
 45.155.204.190 www.notion.so
-# Nvidia:
+
+# Nvidia
 45.155.204.190 developer.nvidia.com
-# Parsec:
+
+# Parsec
 45.155.204.190 builds.parsec.app
-# Proton:
+
+# Patreon
+45.155.204.190 patreon.com
+45.155.204.190 www.patreon.com
+
+# Proton
 45.155.204.190 account-api.proton.me
 45.155.204.190 account.proton.me
 45.155.204.190 calendar.proton.me
@@ -383,17 +419,20 @@
 45.155.204.190 pass.proton.me
 45.155.204.190 proton.me
 45.155.204.190 wallet.proton.me
-# Pump.fun:
+
+# Pump.fun
 45.155.204.190 frontend-api-v3.pump.fun
 45.155.204.190 images.pump.fun
 45.155.204.190 pump.fun
 45.155.204.190 swap-api.pump.fun
-# Qwant:
+
+# Qwant
 45.155.204.190 www.qwant.com
-# Spotify:
-144.31.14.104 aet.spotify.com
+
+# Spotify
 45.155.204.190 accounts.scdn.co
 45.155.204.190 accounts.spotify.com
+45.155.204.190 aet.spotify.com
 45.155.204.190 api-partner.spotify.com
 45.155.204.190 api.spotify.com
 45.155.204.190 encore.scdn.co
@@ -405,7 +444,8 @@
 45.155.204.190 spclient.wg.spotify.com
 45.155.204.190 www-growth.scdn.co
 45.155.204.190 www.spotify.com
-# Supercell:
+
+# Supercell
 144.31.14.104 accounts.supercell.com
 144.31.14.104 cdn.id.supercell.com
 144.31.14.104 clashofclans.inbox.supercell.com
@@ -414,7 +454,11 @@
 144.31.14.104 game-assets.clashroyaleapp.com
 144.31.14.104 security.id.supercell.com
 144.31.14.104 store.supercell.com
-# Tidal:
+
+# Tidal
+45.155.204.190 api-global.squareup.com
+45.155.204.190 api.squareup.com
+45.155.204.190 geolocation.onetrust.com
 144.31.14.104 api.tidal.com
 144.31.14.104 auth.tidal.com
 144.31.14.104 dd.tidal.com
@@ -424,30 +468,40 @@
 144.31.14.104 listen.tidal.com
 144.31.14.104 login.tidal.com
 144.31.14.104 resources.tidal.com
-45.155.204.190 api-global.squareup.com
-45.155.204.190 api.squareup.com
-45.155.204.190 geolocation.onetrust.com
-# TikTok:
-144.31.14.104 www.tiktok.com
-# Trae.ai:
+
+# TikTok
+95.182.120.241 tiktok.com
+95.182.120.241 tiktokcdn-eu.com
+95.182.120.241 tiktokcdn.com
+95.182.120.241 tiktokv.com
+95.182.120.241 tiktokv.eu
+95.182.120.241 tiktokw.eu
+95.182.120.241 ttwstatic.com
+95.182.120.241 onelink.me
+95.182.120.241 snssdk1233.onelink.me
+
+# Trae.ai
 45.155.204.190 api-sg-central.trae.ai
 45.155.204.190 api16-normal-alisg.mchost.guru
 45.155.204.190 api.trae.ai
 45.155.204.190 trae-api-sg.mchost.guru
-# Tria.ge:
+
+# Tria.ge
 45.155.204.190 tria.ge
-# Truth Social:
+
+# Truth Social
 45.155.204.190 static-assets-1.truthsocial.com
 45.155.204.190 truthsocial.com
-# Twitch:
+
+# Twitch
 45.155.204.190 gql.twitch.tv
 45.155.204.190 usher.ttvnw.net
-# Weather.com:
+
+# Weather.com
 45.155.204.190 upsx.weather.com
 45.155.204.190 weather.com
-# Windsurf:
-95.182.120.241 windsurf-telemetry.codeium.com
-95.182.120.241 windsurf.com
+
+# Windsurf
 45.155.204.190 codeium.com
 45.155.204.190 inference.codeium.com
 45.155.204.190 marketplace.windsurf.com
@@ -455,19 +509,23 @@
 45.155.204.190 unleash.codeium.com
 45.155.204.190 web-backend.codeium.com
 45.155.204.190 windsurf-stable.codeium.com
-## Other:
+45.155.204.190 windsurf.com
+144.31.14.104 windsurf-telemetry.codeium.com
+
+## Other
 45.95.233.23 game.clashroyaleapp.com
 45.95.233.23 game.mocogame.com
+45.155.204.190 controlplane.tailscale.com
 52.223.13.41 tracker.openbittorrent.com
 108.61.167.26 game.squadbustersgame.com
 130.255.77.28 ntc.party
 157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
 172.64.33.155 d.rutor.info
 185.31.40.18 test.dns.malw.link
-45.155.204.190 controlplane.tailscale.com
 185.246.223.127 game.brawlstarsgame.com
 193.23.209.189 gamea.clashofclans.com
-## IP Loggers:
+
+## IP Loggers
 0.0.0.0 2no.co
 0.0.0.0 apptracer.ru
 0.0.0.0 bc.ax
