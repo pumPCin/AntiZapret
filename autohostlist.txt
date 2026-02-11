@@ -2,6 +2,7 @@
 7tv.app
 7tv.gg
 7tv.io
+a-v2.sndcdn.com
 abd.twimg.com
 accounts.google.com
 achat-followers-instagram.com
@@ -12,6 +13,7 @@ ad.doubleclick.net
 adnxs.com
 adservice.google.com
 aksor.pro
+al.sndcdn.com
 amazon.com
 amazonaws.com
 amnezia.org
@@ -26,6 +28,7 @@ appspot.com
 archive.org
 arma3.com
 armaplatform.com
+assets.web.soundcloud.cloud
 avira.com
 awsstatic.com
 b-cdn.net
@@ -40,6 +43,7 @@ bootstrapcdn.com
 botnadzor.org
 byteoversea.com
 carstagram.com
+cdn-telegram.org
 cdn.battleye.com
 cdn.betterttv.net
 cdn.bohemia.net
@@ -52,6 +56,7 @@ cdninstagram.com
 cdnjs.cloudflare.com
 censorship.no
 censortracker.org
+cf-hls-media.sndcdn.com
 chickstagram.com
 clarity.ms
 clients6.google.com
@@ -78,7 +83,11 @@ cloudflaretest.com
 cloudfront.net
 cm.mgid.com
 code.jquery.com
+comments.app
+contest.com
 conversations.im
+cursor.sh
+cursorapi.com
 dev.twitch.tv
 developer.valvesoftware.com
 dis.gd
@@ -110,6 +119,7 @@ discordstatus.com
 dn.com
 dns.comss.one
 dns.controld.com
+dnschecker.org
 doubleclick.net
 dtf.ru
 en.wikipedia.org
@@ -126,6 +136,7 @@ ffzap.com
 ficbook.net
 files.catbox.moe
 fonts.googleapis.com
+fragment.com
 frankerfacez.com
 gateway.discord.gg
 gekkk.co
@@ -141,12 +152,14 @@ googlesyndication.com
 googletagmanager.com
 googleusercontent.com
 googlevideo.com
+graph.org
 gstatic.com
 gvt1.com
 hd-rezka.one
 hd-rezka.tv
 help.twitch.tv
 holod.media
+html-classic.itch.zone
 i.ytimg.com
 id.twitch.tv
 ig.me
@@ -155,6 +168,7 @@ igsonar.com
 igtv.com
 imagedelivery.net
 images-ext-1.discordapp.net
+img.itch.zone
 img.yani.tv
 imstagram.com
 imtagram.com
@@ -209,6 +223,7 @@ instgram.com
 intagram.com
 intagrm.com
 intgram.com
+itch.io
 jnn-pa.googleapis.com
 jquery.com
 jut.su
@@ -255,6 +270,7 @@ proton.me
 protonmail.com
 protonvpn.com
 psiphon.ca
+quiz.directory
 quora.com
 reddit.com
 reforger.armaplatform.com
@@ -292,8 +308,12 @@ stats.g.doubleclick.net
 steamdb.info
 t.co
 t.me
+tdesktop.com
 te-st.org
 teleg.xyz
+telega.one
+telegra.ph
+telegram-cdn.org
 telegram.ai
 telegram.asia
 telegram.biz
@@ -349,9 +369,11 @@ twimg.com
 twitch.tv
 twitchcdn.net
 twitter.com
+tx.me
 ufouxbwn.com
 ulta.team
 userapi.com
+usercontent.dev
 vast.ufouxbwn.com
 vector.im
 viber.com
@@ -369,6 +391,8 @@ wixmp.com
 workshop.bohemia.net
 wwwinstagram.com
 x.com
+xda-developers.com
+xdaforums.com
 ya-ligh.com
 ya-ligt.com
 ya-liht.com
