@@ -248,6 +248,7 @@ muscdn.com
 musical.ly
 musixmatch.com
 news.google.com
+nicegram.app
 nnmclub.to
 notepad-plus-plus.org
 ntc.party
@@ -346,6 +347,7 @@ telegram.us
 telegram.website
 telegram.xyz
 telegramapp.org
+telegramdownload.com
 telesco.pe
 tenor.com
 tg.dev
