@@ -319,9 +319,8 @@
 45.155.204.190 framer.com
 
 # GitHub Copilot
-144.31.14.104 api.github.com
-144.31.14.104 api.individual.githubcopilot.com
-144.31.14.104 proxy.individual.githubcopilot.com
+45.155.204.190 api.individual.githubcopilot.com
+45.155.204.190 proxy.individual.githubcopilot.com
 
 # Google
 45.155.204.190 aisandbox-pa.googleapis.com
