@@ -15,25 +15,6 @@
 # Broadcom
 45.155.204.190 profile.broadcom.com
 
-# OpenAI
-45.155.204.190 ab.chatgpt.com
-45.155.204.190 android.chat.openai.com
-45.155.204.190 api.openai.com
-45.155.204.190 auth0.openai.com
-45.155.204.190 auth.openai.com
-45.155.204.190 cdn.auth0.com
-45.155.204.190 cdn.oaistatic.com
-45.155.204.190 chatgpt.com
-45.155.204.190 files.oaiusercontent.com
-45.155.204.190 ios.chat.openai.com
-45.155.204.190 operator.chatgpt.com
-45.155.204.190 platform.openai.com
-45.155.204.190 sora.chatgpt.com
-45.155.204.190 sora.com
-45.155.204.190 tcr9i.chat.openai.com
-45.155.204.190 videos.openai.com
-45.155.204.190 webrtc.chatgpt.com
-
 # Canva
 45.155.204.190 content-management-files.canva.com
 45.155.204.190 static.canva.com
@@ -400,6 +381,25 @@
 # Nvidia
 45.155.204.190 developer.nvidia.com
 
+# OpenAI
+45.155.204.190 ab.chatgpt.com
+45.155.204.190 android.chat.openai.com
+45.155.204.190 api.openai.com
+45.155.204.190 auth0.openai.com
+45.155.204.190 auth.openai.com
+45.155.204.190 cdn.auth0.com
+45.155.204.190 cdn.oaistatic.com
+45.155.204.190 chatgpt.com
+45.155.204.190 files.oaiusercontent.com
+45.155.204.190 ios.chat.openai.com
+45.155.204.190 operator.chatgpt.com
+45.155.204.190 platform.openai.com
+45.155.204.190 sora.chatgpt.com
+45.155.204.190 sora.com
+45.155.204.190 tcr9i.chat.openai.com
+45.155.204.190 videos.openai.com
+45.155.204.190 webrtc.chatgpt.com
+
 # Parsec
 45.155.204.190 builds.parsec.app
 
@@ -456,6 +456,9 @@
 
 # Telegram
 149.154.167.220 api.telegram.org
+149.154.167.220 aurora-1.web.telegram.org
+149.154.167.220 aurora.web.telegram.org
+149.154.167.220 flora-1.web.telegram.org
 149.154.167.220 flora.web.telegram.org
 149.154.167.220 kws1-1.web.telegram.org
 149.154.167.220 kws1.web.telegram.org
@@ -475,7 +478,10 @@
 149.154.167.220 telegram.space
 149.154.167.220 telesco.pe
 149.154.167.220 tg.dev
+149.154.167.220 venus-1.web.telegram.org
 149.154.167.220 venus.web.telegram.org
+149.154.167.220 vesta-1.web.telegram.org
+149.154.167.220 vesta.web.telegram.org
 149.154.167.220 web.telegram.org
 149.154.167.220 zws1-1.web.telegram.org
 149.154.167.220 zws1.web.telegram.org
