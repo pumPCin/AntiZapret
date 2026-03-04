@@ -456,20 +456,10 @@
 
 # Telegram
 149.154.167.220 api.telegram.org
-149.154.167.220 aurora-1.web.telegram.org
-149.154.167.220 aurora.web.telegram.org
-149.154.167.220 flora-1.web.telegram.org
-149.154.167.220 flora.web.telegram.org
-149.154.167.220 kws1-1.web.telegram.org
-149.154.167.220 kws1.web.telegram.org
 149.154.167.220 kws2-1.web.telegram.org
 149.154.167.220 kws2.web.telegram.org
 149.154.167.220 kws4-1.web.telegram.org
 149.154.167.220 kws4.web.telegram.org
-149.154.167.220 kws5-1.web.telegram.org
-149.154.167.220 kws5.web.telegram.org
-149.154.167.220 pluto-1.web.telegram.org
-149.154.167.220 pluto.web.telegram.org
 149.154.167.220 t.me
 149.154.167.220 td.telegram.org
 149.154.167.220 telegram.dog
@@ -483,13 +473,10 @@
 149.154.167.220 vesta-1.web.telegram.org
 149.154.167.220 vesta.web.telegram.org
 149.154.167.220 web.telegram.org
-149.154.167.220 zws1-1.web.telegram.org
-149.154.167.220 zws1.web.telegram.org
 149.154.167.220 zws2-1.web.telegram.org
 149.154.167.220 zws2.web.telegram.org
 149.154.167.220 zws4-1.web.telegram.org
-149.154.167.220 zws5-1.web.telegram.org
-149.154.167.220 zws5.web.telegram.org
+149.154.167.220 zws4.web.telegram.org
 
 # Tidal
 45.155.204.190 api-global.squareup.com
