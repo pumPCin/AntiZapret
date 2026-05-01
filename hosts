@@ -5,15 +5,9 @@
 255.255.255.255 broadcasthost
 # Addon for AntiZapret
 
-# Archive.org
-77.239.114.0 web.archive.org
-
 # Autodesk
-185.246.223.127 accounts.autodesk.com
-185.246.223.127 www.autodesk.com
-
-# Broadcom
-77.239.114.0 profile.broadcom.com
+77.239.114.0 accounts.autodesk.com
+77.239.114.0 www.autodesk.com
 
 # Canva
 77.239.114.0 content-management-files.canva.com
@@ -54,9 +48,6 @@
 77.239.114.0 deezer.com
 77.239.114.0 payment.deezer.com
 77.239.114.0 www.deezer.com
-
-# Dell
-77.239.114.0 www.dell.com
 
 # Discord
 104.25.158.178 finland10000.discord.media
@@ -260,18 +251,12 @@
 104.25.158.178 finland10198.discord.media
 104.25.158.178 finland10199.discord.media
 
-# Dyson
-77.239.114.0 dyson.com
-
 # ElevenLabs
 77.239.114.0 api.elevenlabs.io
 77.239.114.0 api.us.elevenlabs.io
 77.239.114.0 elevenlabs.io
 77.239.114.0 elevenreader.io
 77.239.114.0 help.elevenlabs.io
-
-# Elgato
-77.239.114.0 www.elgato.com
 
 # Epic Games
 77.239.114.0 ak.epicgames.com
@@ -290,55 +275,39 @@
 77.239.114.0 store.on.epicgames.com
 77.239.114.0 tracking.epicgames.com
 
-# Fitbit
-77.239.114.0 api.fitbit.com
-77.239.114.0 fitbit-pa.googleapis.com
-77.239.114.0 fitbit.google.com
-77.239.114.0 fitbitvestibuleshim-pa.googleapis.com
-
-# Framer
-77.239.114.0 framer.com
-
 # GitHub Copilot
 77.239.114.0 api.github.com
 77.239.114.0 api.individual.githubcopilot.com
 77.239.114.0 proxy.individual.githubcopilot.com
 
 # Google
-95.182.120.241 robinfrontend-pa.googleapis.com
-103.27.157.38 aisandbox-pa.googleapis.com
-103.27.157.38 aistudio.google.com
-103.27.157.38 aitestkitchen.withgoogle.com
-103.27.157.38 alkalimakersuite-pa.clients6.google.com
-103.27.157.38 assistant-s3-pa.googleapis.com
-103.27.157.38 corp.google.com
-103.27.157.38 gemini.google.com
-103.27.157.38 generativelanguage.googleapis.com
-103.27.157.38 google-analytics.com
-103.27.157.38 google.com
-103.27.157.38 googleusercontent.com
-103.27.157.38 jules.google.com
-103.27.157.38 labs.google
-103.27.157.38 notebooklm.google.com
-103.27.157.38 o.pki.goog
-103.27.157.38 proactivebackend-pa.googleapis.com
-103.27.157.38 stitch.withgoogle.com
-103.27.157.38 webchannel-alkalimakersuite-pa.clients6.google.com
-103.27.157.38 withgoogle.com
+62.133.62.97 aisandbox-pa.googleapis.com
+62.133.62.97 aistudio.google.com
+62.133.62.97 aitestkitchen.withgoogle.com
+62.133.62.97 alkalimakersuite-pa.clients6.google.com
+62.133.62.97 api.fitbit.com
+62.133.62.97 assistant-s3-pa.googleapis.com
+62.133.62.97 fitbit-pa.googleapis.com
+62.133.62.97 fitbit.google.com
+62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
+62.133.62.97 gemini.google.com
+62.133.62.97 generativelanguage.googleapis.com
+62.133.62.97 google-analytics.com
+62.133.62.97 google.com
+62.133.62.97 googleusercontent.com
+62.133.62.97 jules.google.com
+62.133.62.97 labs.google
+62.133.62.97 notebooklm.google.com
+62.133.62.97 o.pki.goog
+62.133.62.97 proactivebackend-pa.googleapis.com
+62.133.62.97 robinfrontend-pa.googleapis.com
+62.133.62.97 stitch.withgoogle.com
+62.133.62.97 webchannel-alkalimakersuite-pa.clients6.google.com
 
 # Grok
 77.239.114.0 accounts.x.ai
 77.239.114.0 assets.grok.com
 77.239.114.0 grok.com
-
-# guidedhacking.com
-77.239.114.0 guidedhacking.com
-
-# Intel
-77.239.114.0 www.intel.com
-
-# Imgur
-77.239.114.0 api.imgur.com
 
 # Instagram
 157.240.245.174 b.i.instagram.com
@@ -367,10 +336,10 @@
 77.239.114.0 manus.im
 
 # Microsoft
+62.133.62.97 sydney.bing.com
 77.239.114.0 copilot.microsoft.com
 77.239.114.0 edgeservices.bing.com
 77.239.114.0 rewards.bing.com
-77.239.114.0 sydney.bing.com
 77.239.114.0 xgpuweb.gssv-play-prod.xboxlive.com
 77.239.114.0 xgpuwebf2p.gssv-play-prod.xboxlive.com
 77.239.114.0 xsts.auth.xboxlive.com
@@ -378,9 +347,6 @@
 # Notion
 77.239.114.0 calendar.notion.so
 77.239.114.0 www.notion.so
-
-# NVIDIA
-77.239.114.0 developer.nvidia.com
 
 # OpenAI
 77.239.114.0 ab.chatgpt.com
@@ -399,9 +365,6 @@
 77.239.114.0 tcr9i.chat.openai.com
 77.239.114.0 videos.openai.com
 77.239.114.0 webrtc.chatgpt.com
-
-# Parsec
-77.239.114.0 builds.parsec.app
 
 # Patreon
 77.239.114.0 patreon.com
@@ -424,9 +387,6 @@
 77.239.114.0 images.pump.fun
 77.239.114.0 pump.fun
 77.239.114.0 swap-api.pump.fun
-
-# Qwant
-77.239.114.0 www.qwant.com
 
 # Spotify
 77.239.114.0 accounts.scdn.co
@@ -478,18 +438,18 @@
 149.154.167.220 zws4.web.telegram.org
 
 # Tidal
+77.239.114.0 api-global.squareup.com
+77.239.114.0 api.squareup.com
 77.239.114.0 api.tidal.com
 77.239.114.0 auth.tidal.com
 77.239.114.0 dd.tidal.com
 77.239.114.0 fsu.fa.tidal.com
+77.239.114.0 geolocation.onetrust.com
 77.239.114.0 images.tidal.com
 77.239.114.0 link.tidal.com
 77.239.114.0 listen.tidal.com
 77.239.114.0 login.tidal.com
 77.239.114.0 resources.tidal.com
-103.27.157.38 api-global.squareup.com
-103.27.157.38 geolocation.onetrust.com
-185.246.223.127 api.squareup.com
 
 # TikTok
 77.239.114.0 tiktok.com
@@ -508,12 +468,6 @@
 77.239.114.0 api.trae.ai
 77.239.114.0 api16-normal-alisg.mchost.guru
 77.239.114.0 trae-api-sg.mchost.guru
-
-# Tria.ge
-77.239.114.0 tria.ge
-
-# Truth Social
-103.27.157.38 truthsocial.com
 
 # Twitch
 77.239.114.0 gql.twitch.tv
@@ -534,18 +488,32 @@
 77.239.114.0 windsurf-telemetry.codeium.com
 77.239.114.0 windsurf.com
 
-## Other
-45.95.233.23 game.clashroyaleapp.com
-45.95.233.23 game.mocogame.com
+# Other
 52.223.13.41 tracker.openbittorrent.com
+62.133.62.97 game.clashroyaleapp.com
+62.133.62.97 game.mocogame.com
+77.239.114.0 api.imgur.com
+77.239.114.0 builds.parsec.app
+77.239.114.0 developer.nvidia.com
+77.239.114.0 dyson.com
+77.239.114.0 framer.com
+77.239.114.0 guidedhacking.com
+77.239.114.0 profile.broadcom.com
+77.239.114.0 rutracker.org
+77.239.114.0 tria.ge
+77.239.114.0 web.archive.org
+77.239.114.0 www.dell.com
+77.239.114.0 www.elgato.com
+77.239.114.0 www.intel.com
+77.239.114.0 www.qwant.com
 103.27.157.38 controlplane.tailscale.com
-103.27.157.38 rutracker.org
+103.27.157.38 static-assets-1.truthsocial.com
 108.61.167.26 game.squadbustersgame.com
 130.255.77.28 ntc.party
 157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
 172.64.33.155 d.rutor.info
-185.246.223.127 game.brawlstarsgame.com
 185.31.40.18 test.dns.malw.link
+185.246.223.127 game.brawlstarsgame.com
 193.23.209.189 gamea.clashofclans.com
 
 ## IP Loggers
