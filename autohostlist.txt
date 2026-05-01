@@ -52,6 +52,7 @@ cdn.frankerfacez.com
 cdn.hsmedia.ru
 cdn.prod.website-files.com
 cdn.vigo.one
+cdn.vigo.tech
 cdninstagram.com
 cdnjs.cloudflare.com
 censorship.no
@@ -83,9 +84,11 @@ cloudflaretest.com
 cloudfront.net
 cm.mgid.com
 code.jquery.com
+collector.github.com
 comments.app
 contest.com
 conversations.im
+csp.withgoogle.com
 cursor.sh
 cursorapi.com
 dev.twitch.tv
@@ -228,6 +231,7 @@ jnn-pa.googleapis.com
 jquery.com
 jut.su
 kingstagram.com
+klipy.com
 kodik-storage.com
 kodik.biz
 kodik.info
@@ -252,6 +256,7 @@ nicegram.app
 nnmclub.to
 notepad-plus-plus.org
 ntc.party
+oneproxys.best
 oninstagram.com
 online-instagram.com
 onlineinstagram.com
@@ -267,6 +272,7 @@ player-aksor.yani.tv
 player.aksor.pro
 playerjs.com
 prnt.sc
+pro.sosproxy.space
 proton.me
 protonmail.com
 protonvpn.com
@@ -352,6 +358,7 @@ telesco.pe
 tenor.com
 tg.dev
 tg.org
+tggo.store
 tgram.org
 theinstagramhack.com
 tik-tokapi.com
@@ -391,6 +398,8 @@ windscribe.com
 wire.com
 wixmp.com
 workshop.bohemia.net
+www.google-analytics.com
+www.threads.com
 wwwinstagram.com
 x.com
 xda-developers.com
