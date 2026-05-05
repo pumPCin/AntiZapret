@@ -291,6 +291,7 @@
 62.133.62.97 fitbit.google.com
 62.133.62.97 fitbitvestibuleshim-pa.googleapis.com
 62.133.62.97 gemini.google.com
+62.133.62.97 gemini.gstatic.com
 62.133.62.97 generativelanguage.googleapis.com
 62.133.62.97 google-analytics.com
 62.133.62.97 google.com
@@ -518,6 +519,7 @@
 
 ## IP Loggers
 0.0.0.0 2no.co
+0.0.0.0 ad.mail.ru
 0.0.0.0 apptracer.ru
 0.0.0.0 bc.ax
 0.0.0.0 ed.tc
@@ -527,8 +529,11 @@
 0.0.0.0 iplog.co
 0.0.0.0 iplogger.org
 0.0.0.0 maper.info
+0.0.0.0 r.mail.ru
 0.0.0.0 sdk-api.apptracer.ru
+0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tracker-api.vk-analytics.ru
+0.0.0.0 tracker.my.com
 0.0.0.0 vk-analytics.ru
 0.0.0.0 wl.gl
 0.0.0.0 yip.su
