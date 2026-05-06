@@ -15,9 +15,11 @@
 77.239.114.0 www.canva.com
 
 # Claude
+77.239.114.0 a.claude.ai
 77.239.114.0 api.anthropic.com
 77.239.114.0 claude.ai
 77.239.114.0 console.anthropic.com
+77.239.114.0 platform.claude.com
 
 # DeepL
 77.239.114.0 api-free.deepl.com
@@ -337,7 +339,6 @@
 77.239.114.0 manus.im
 
 # Microsoft
-62.133.62.97 sydney.bing.com
 77.239.114.0 copilot.microsoft.com
 77.239.114.0 edgeservices.bing.com
 77.239.114.0 rewards.bing.com
@@ -356,7 +357,9 @@
 77.239.114.0 auth.openai.com
 77.239.114.0 auth0.openai.com
 77.239.114.0 cdn.oaistatic.com
+77.239.114.0 cdn.platform.openai.com
 77.239.114.0 chatgpt.com
+77.239.114.0 developers.openai.com
 77.239.114.0 files.oaiusercontent.com
 77.239.114.0 ios.chat.openai.com
 77.239.114.0 operator.chatgpt.com
@@ -470,6 +473,10 @@
 77.239.114.0 api16-normal-alisg.mchost.guru
 77.239.114.0 trae-api-sg.mchost.guru
 
+# Truth Social
+103.27.157.38 static-assets-1.truthsocial.com
+103.27.157.38 truthsocial.com
+
 # Twitch
 77.239.114.0 gql.twitch.tv
 77.239.114.0 usher.ttvnw.net
@@ -502,13 +509,12 @@
 77.239.114.0 profile.broadcom.com
 77.239.114.0 rutracker.org
 77.239.114.0 tria.ge
-77.239.114.0 web.archive.org
 77.239.114.0 www.dell.com
 77.239.114.0 www.elgato.com
 77.239.114.0 www.intel.com
 77.239.114.0 www.qwant.com
 103.27.157.38 controlplane.tailscale.com
-103.27.157.38 static-assets-1.truthsocial.com
+103.27.157.38 web.archive.org
 108.61.167.26 game.squadbustersgame.com
 130.255.77.28 ntc.party
 157.240.245.174 z-p42-chat-e2ee-ig.facebook.com
