@@ -10,5 +10,5 @@ start "antizapret: auto v3" /min "%~dp0winws.exe" ^
 --filter-udp=443 --ipset="%~dp0ipset-all.txt" --dpi-desync=fake --dpi-desync-repeats=6 --dpi-desync-fake-quic="%~dp0quic_initial_www_google_com.bin" --new ^
 --filter-udp=443 --dpi-desync=fake --dpi-desync-repeats=6 --dpi-desync-fake-quic="%~dp0quic_initial_www_google_com.bin" --hostlist-auto="%~dp0autohostlist.txt" --new ^
 --filter-udp=443 --hostlist="%~dp0autohostlist.txt" --dpi-desync=fake --dpi-desync-repeats=6 --dpi-desync-fake-quic="%~dp0quic_initial_www_google_com.bin" --new ^
---filter-udp=19294-19344,50000-50100 --filter-l7=discord,stun --dpi-desync=fake --dpi-desync-repeats=6 --new
+--filter-udp=19294-19344,50000-50100 --filter-l7=discord,stun --dpi-desync=fake --dpi-desync-fake-discord="%~dp0quic_initial_dbankcloud_ru.bin" --dpi-desync-fake-stun="%~dp0quic_initial_dbankcloud_ru.bin" --dpi-desync-repeats=6 --new
 
