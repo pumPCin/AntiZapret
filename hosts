@@ -280,6 +280,7 @@
 # GitHub Copilot
 77.239.114.0 api.github.com
 185.199.108.133 avatars.githubusercontent.com
+185.199.108.133 gist.githubusercontent.com
 185.199.108.133 private-user-images.githubusercontent.com
 185.199.109.133 api.individual.githubcopilot.com
 185.199.109.133 githubassets.com
