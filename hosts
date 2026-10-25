@@ -5,22 +5,6 @@
 255.255.255.255 broadcasthost
 # Addon for AntiZapret
 
-#45.155.204.190 ak.epicgames.com
-#45.155.204.190 api.epicgames.dev
-#45.155.204.190 datarouter.ol.epicgames.com
-#45.155.204.190 ecosec.on.epicgames.com
-#45.155.204.190 epicgames.com
-#45.155.204.190 launcher.store.epicgames.com
-#45.155.204.190 library-service.live.use1a.on.epicgames.com
-#45.155.204.190 lightswitch-public-service-prod06.ol.epicgames.com
-#45.155.204.190 merchantpool1.epicgames.com
-#45.155.204.190 ol.epicgames.com
-#45.155.204.190 payment-website-pci.ol.epicgames.com
-#45.155.204.190 perf.store.on.epicgames.com
-#45.155.204.190 static-assets-prod.epicgames.com
-#45.155.204.190 store.epicgames.com
-#45.155.204.190 store.on.epicgames.com
-#45.155.204.190 tracking.epicgames.com
 52.223.13.41 tracker.openbittorrent.com
 62.133.62.97 aisandbox-pa.googleapis.com
 62.133.62.97 aistudio.google.com
